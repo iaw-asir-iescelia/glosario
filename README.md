@@ -22,6 +22,10 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 
 # G
 
+## Git
+
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
+
 # H
 
 # I
@@ -72,4 +76,3 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 # Y
 
 # Z
-
