@@ -63,6 +63,10 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 
 # M
 
+## Microservicio
+
+Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
+
 # N
 
 ## Nginx
