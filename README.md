@@ -66,7 +66,11 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
+  
+## MySQL
 
+MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+  
 # N
 
 ## Nginx
