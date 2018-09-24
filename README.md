@@ -78,6 +78,8 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # O
 
 # P
+## PHP
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 # Q
 
