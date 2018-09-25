@@ -86,6 +86,8 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 # X
 
 # Y
+## YAML
+YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
 
 # Z
 
