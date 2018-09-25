@@ -42,7 +42,9 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
 
-# H
+## GoAccess
+
+Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
 
 # I
 
