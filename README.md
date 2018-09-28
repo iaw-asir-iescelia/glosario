@@ -52,6 +52,8 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 
 Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
 
+# H
+
 # I
 
 # J
@@ -91,6 +93,10 @@ Pronunciado en inglés “engine X” es un servidor web/proxy inverso ligero de
 
 Es software libre y de código abierto, licenciado bajo la Licencia BSD simplificada; también existe una versión comercial distribuida bajo el nombre de Nginx Plus.Es multiplataforma, por lo que corre en sistemas tipo Unix (GNU/Linux, BSD, Solaris, Mac OS X, etc.) y Windows.
 
+## Netplan 
+
+Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simplemente crea una descripción YAML de las interfaces de red requeridas y para lo que debe configurarse cada una de ellas. A partir de esta descripción, Netplan generará toda la configuración necesaria para la herramienta de representación elegida.
+
 # O
 
 # P
@@ -116,6 +122,8 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 # Y
 ## YAML
 YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
+
+[Referencia](https://es.wikipedia.org/wiki/YAML)
 
 # Z
 
