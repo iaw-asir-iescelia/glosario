@@ -10,6 +10,10 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
 
+## AWStats
+
+AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
+
 # B
 
 # C
@@ -37,6 +41,10 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 ## Git
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
+
+## GoAccess
+
+Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
 
 # H
 
@@ -79,9 +87,15 @@ Pronunciado en inglés “engine X” es un servidor web/proxy inverso ligero de
 
 Es software libre y de código abierto, licenciado bajo la Licencia BSD simplificada; también existe una versión comercial distribuida bajo el nombre de Nginx Plus.Es multiplataforma, por lo que corre en sistemas tipo Unix (GNU/Linux, BSD, Solaris, Mac OS X, etc.) y Windows.
 
+## Netplan 
+
+Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simplemente crea una descripción YAML de las interfaces de red requeridas y para lo que debe configurarse cada una de ellas. A partir de esta descripción, Netplan generará toda la configuración necesaria para la herramienta de representación elegida.
+
 # O
 
 # P
+## PHP
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 # Q
 
@@ -100,6 +114,10 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # X
 
 # Y
+## YAML
+YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
+
+[Referencia](https://es.wikipedia.org/wiki/YAML)
 
 # Z
 
