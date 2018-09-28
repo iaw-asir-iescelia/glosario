@@ -36,6 +36,8 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 
 DevOps es una metodología de trabajo basada en el desarrollo de código que usa nuevas herramientas y prácticas para reducir la tradicional distancia entre técnicos de programación y de sistemas. Este nuevo enfoque de colaboración que es DevOps permite a los equipos trabajar de forma más cercana, aportando mayor agilidad al negocio y notables incrementos de productividad.
 
+[Referencia](https://es.wikipedia.org/wiki/DevOps)
+
 # E
 
 # F
