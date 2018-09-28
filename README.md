@@ -10,6 +10,10 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
 
+## AWStats
+
+AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
+
 # B
 
 # C
@@ -42,6 +46,8 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 
 Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
 
+# H
+
 # I
 
 # J
@@ -68,7 +74,11 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
+  
+## MySQL
 
+MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+  
 # N
 
 ## Nginx
@@ -80,6 +90,8 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # O
 
 # P
+## PHP
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 # Q
 
@@ -98,6 +110,10 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # X
 
 # Y
+## YAML
+YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
+
+[Referencia](https://es.wikipedia.org/wiki/YAML)
 
 # Z
 
