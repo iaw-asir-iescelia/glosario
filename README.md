@@ -42,6 +42,10 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
 
+## GoAccess
+
+Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
+
 # H
 
 # I
@@ -70,7 +74,11 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
+  
+## MySQL
 
+MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+  
 # N
 
 ## Nginx
@@ -82,6 +90,8 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # O
 
 # P
+## PHP
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 # Q
 
@@ -100,6 +110,10 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # X
 
 # Y
+## YAML
+YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
+
+[Referencia](https://es.wikipedia.org/wiki/YAML)
 
 # Z
 
