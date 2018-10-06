@@ -59,6 +59,11 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 # I
 
 # J
+  ## JSON
+  
+Es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente.
+
+[referencia](https://es.wikipedia.org/wiki/JSON)
 
 # K
 
