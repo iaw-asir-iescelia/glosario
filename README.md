@@ -28,6 +28,12 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
+## Composer
+
+Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
+
+[Referencia1](https://librosweb.es/libro/composer/).
+[Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
 # D
 
 ## Docker
