@@ -30,7 +30,7 @@ El control de versiones se realiza principalmente en la industria informática p
 
 Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
 
-[Referencia1](https://librosweb.es/libro/composer/)
+[Referencia1](https://librosweb.es/libro/composer/).
 [Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
 # D
 
