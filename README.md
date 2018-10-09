@@ -28,6 +28,12 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
+## Composer.json
+
+En este archivo tenemos toda la información ordenada para que se instalen todos los paquetes que necesitamos usar. En otras palabras, este archivo informa a Composer sobre las necesidades de nuestro sistema y hace su magía.
+
+[Referencia](https://rimorsoft.com/iniciando-un-proyecto-con-composer)
+
 # D
 
 ## Docker
