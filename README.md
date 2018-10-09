@@ -77,6 +77,15 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 
 # M
 
+## Markdown
+
+Markdown nació como herramienta de conversión de texto plano a HTML.
+Esta herramienta fue creada en 2004 por John Gruber y se distribuye de manera gratuita.
+Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
+Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
+
+[Referencia](https://markdown.es/)
+
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
