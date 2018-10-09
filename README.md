@@ -20,6 +20,19 @@ AWStats es una herramienta open source de informes de análisis web, apta para a
 
 # C
 
+## Composer
+
+Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
+
+* [Referencia1](https://librosweb.es/libro/composer/).
+* [Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
+
+## `composer.json`
+
+En este archivo tenemos toda la información ordenada para que se instalen todos los paquetes que necesitamos usar. En otras palabras, este archivo informa a Composer sobre las necesidades de nuestro sistema y hace su magía.
+
+[Referencia](https://rimorsoft.com/iniciando-un-proyecto-con-composer)
+
 ## Control de Versiones
 
 Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
@@ -28,12 +41,6 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
-## Composer
-
-Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
-
-[Referencia1](https://librosweb.es/libro/composer/).
-[Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
 # D
 
 ## Docker
