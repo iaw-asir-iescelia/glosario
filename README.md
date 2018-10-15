@@ -76,13 +76,14 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
   
 Es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente.
 
-[referencia](https://es.wikipedia.org/wiki/JSON)
+[Referencia](https://es.wikipedia.org/wiki/JSON)
 
 # K
  ## Kubernetes
  
  Kubernetes es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation). Soporta diferentes ambientes para la ejecución contenedores, incluido Docker.
- [Referencia] (https://es.wikipedia.org/wiki/Kubernetes)
+
+[Referencia](https://es.wikipedia.org/wiki/Kubernetes)
 
 # L
 
