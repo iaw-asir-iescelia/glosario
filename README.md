@@ -79,6 +79,10 @@ Es un formato de texto ligero para el intercambio de datos. JSON es un subconjun
 [referencia](https://es.wikipedia.org/wiki/JSON)
 
 # K
+ ## Kubernetes
+ 
+ Kubernetes es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation). Soporta diferentes ambientes para la ejecución contenedores, incluido Docker.
+ [Referencia] (https://es.wikipedia.org/wiki/Kubernetes)
 
 # L
 
