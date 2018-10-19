@@ -133,6 +133,10 @@ MySQL es un sistema de gestión de base de datos relacional de código abierto, 
 MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
   
 # N
+## Node.js
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google
+[Referencia](https://www.luisllamas.es/que-es-node-js/)
 
 ## Nginx
 
@@ -166,6 +170,13 @@ Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene 
 Es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre, han participado en el proyecto más de mil desarrolladores diferentes. React intenta ayudar a los desarrolladores a construir aplicaciones que usan datos que cambian todo el tiempo. Su objetivo es ser sencillo, declarativo y fácil de combinar. React sólo maneja la interfaz de usuario en una aplicación.
 
 # S
+ ## Snap
+ 
+Protocolo de Acceso de Subred que opera entre una entidad de red en la subred y una entidad de red en el sistema final. El protocolo SNAP especifica un método estándar para encapsular datagramas IP y mensajes ARP en redes IEEE. La entidad SNAP del sistema final hace uso de los servicios de la subred y ejecuta tres funciones claves: transferencia de datos, administración de conexión y selección QOS.
+
+[Referencia](https://diccionario.babylon-software.com/snap/)
+ 
+
 
 # T
 
