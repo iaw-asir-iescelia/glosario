@@ -111,6 +111,13 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 # R
 
 # S
+ ## Snap
+ 
+Protocolo de Acceso de Subred que opera entre una entidad de red en la subred y una entidad de red en el sistema final. El protocolo SNAP especifica un método estándar para encapsular datagramas IP y mensajes ARP en redes IEEE. La entidad SNAP del sistema final hace uso de los servicios de la subred y ejecuta tres funciones claves: transferencia de datos, administración de conexión y selección QOS.
+
+[Referencia](https://diccionario.babylon-software.com/snap/)
+ 
+
 
 # T
 
