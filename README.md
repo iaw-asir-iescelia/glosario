@@ -42,6 +42,10 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 
 # F
 
+## Flatpak
+
+Es una utilidad para despliegue de software, administración de paquetes, y virtualización de aplicaciones para entornos de escritorio de Linux. La utilidad proporciona un entorno de aislamiento de procesos llamado Bubblewrap, en el que los usuarios pueden ejecutar aplicaciones aisladas del resto del sistema. Las aplicaciones que utilizan Flatpak necesitan permiso del usuario para controlar dispositivos de hardware o acceder los archivos del usuario.
+
 # G
 
 ## Git
