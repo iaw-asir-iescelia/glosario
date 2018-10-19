@@ -115,6 +115,11 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 
 # V
 
+## Vagrantfile
+
+
+La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
+
 # W
 
 # X
