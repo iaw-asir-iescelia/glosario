@@ -10,7 +10,7 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 Ansible es una plataforma de software libre para configurar y administrar computadoras. Combina instalación multi-nodo, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Maneja nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior para instalarlo). Dispone de módulos que trabajan sobre JSON y la salida estándar puede ser escrita en cualquier lenguaje. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
 
-[Referencia](https://es.wikipedia.org/wiki/Ansible_(software)
+[Referencia](https://es.wikipedia.org/wiki/Ansible_(software))
 
 
 ## Apache Server
