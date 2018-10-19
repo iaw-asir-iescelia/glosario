@@ -118,6 +118,9 @@ Aproximación para el desarrollo de software que consiste en construir una aplic
 ## MySQL
 
 MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+
+## MERN Stack
+MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
   
 # N
 
@@ -155,6 +158,8 @@ Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene 
 # U
 
 # V
+## VAGRANT
+VAGRANT es un software de máquinas virtuales que permite desplegar máquinas virtuales automatizadas con un simple archivo de configuración y nos permite pasar la máquina virtual a donde queramos y a quien queramos con muy poco esfuerzo, ya que el el archivo que define la máquina virtual ocupa muy poco. Vagrant se usa en un entorno más bien de desarrollo, y no se usa en producción.  
 
 # W
 
