@@ -89,6 +89,10 @@ Aproximación para el desarrollo de software que consiste en construir una aplic
 MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
   
 # N
+## Node.js
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google
+[Referencia](https://www.luisllamas.es/que-es-node-js/)
 
 ## Nginx
 
