@@ -1,4 +1,4 @@
-# glosario
+# Glosario
 
 Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
@@ -89,16 +89,18 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 # I
 
 # J
-  ## JSON
+
+## JSON
   
 Es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente.
 
 [Referencia](https://es.wikipedia.org/wiki/JSON)
 
 # K
- ## Kubernetes
+
+## Kubernetes
  
- Kubernetes es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation). Soporta diferentes ambientes para la ejecución contenedores, incluido Docker.
+Kubernetes es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation). Soporta diferentes ambientes para la ejecución contenedores, incluido Docker.
 
 [Referencia](https://es.wikipedia.org/wiki/Kubernetes)
 
@@ -137,12 +139,15 @@ Aproximación para el desarrollo de software que consiste en construir una aplic
 MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
 
 ## MERN Stack
+
 MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
   
 # N
+
 ## Node.js
 
-Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
+
 [Referencia](https://www.luisllamas.es/que-es-node-js/)
 
 ## Nginx
@@ -159,17 +164,19 @@ Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simpl
 
 [Referencia](https://netplan.io/)
 
-
 # O
 
 # P
 ## PHP
+
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 # Q
 
 # R
+
 ## Repositorio
+
 Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software . Los repositorios tienen sus inicios en los años 90, en el área de la física y las matemáticas, donde los académicos aprovecharon la red para compartir sus investigaciones con otros colegas. Este proceso era valioso porque aceleraba el ciclo científico de publicación y revisión de resultados.
 
 ## React
@@ -177,24 +184,24 @@ Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene 
 Es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre, han participado en el proyecto más de mil desarrolladores diferentes. React intenta ayudar a los desarrolladores a construir aplicaciones que usan datos que cambian todo el tiempo. Su objetivo es ser sencillo, declarativo y fácil de combinar. React sólo maneja la interfaz de usuario en una aplicación.
 
 # S
- ## Snap
- 
-Protocolo de Acceso de Subred que opera entre una entidad de red en la subred y una entidad de red en el sistema final. El protocolo SNAP especifica un método estándar para encapsular datagramas IP y mensajes ARP en redes IEEE. La entidad SNAP del sistema final hace uso de los servicios de la subred y ejecuta tres funciones claves: transferencia de datos, administración de conexión y selección QOS.
 
-[Referencia](https://diccionario.babylon-software.com/snap/)
+## Snappy
  
+Snappy es un sistema de gestión de paquetes e implementación de software diseñado y creado originalmente por Canonical para el sistema operativo de teléfonos Ubuntu. Los paquetes, llamados 'snaps' y la herramienta para usarlos 'snapd', funcionan en un rango de distribuciones de Linux.
 
+[Referencia](https://es.wikipedia.org/wiki/Snappy)
 
 # T
 
 # U
 
 # V
-## VAGRANT
-VAGRANT es un software de máquinas virtuales que permite desplegar máquinas virtuales automatizadas con un simple archivo de configuración y nos permite pasar la máquina virtual a donde queramos y a quien queramos con muy poco esfuerzo, ya que el el archivo que define la máquina virtual ocupa muy poco. Vagrant se usa en un entorno más bien de desarrollo, y no se usa en producción.  
+
+## Vagrant
+
+Vagrant es un software de máquinas virtuales que permite desplegar máquinas virtuales automatizadas con un simple archivo de configuración y nos permite pasar la máquina virtual a donde queramos y a quien queramos con muy poco esfuerzo, ya que el el archivo que define la máquina virtual ocupa muy poco. Vagrant se usa en un entorno más bien de desarrollo, y no se usa en producción.  
 
 ## Vagrantfile
-
 
 La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
 
@@ -203,7 +210,9 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 # X
 
 # Y
+
 ## YAML
+
 YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
 
 [Referencia](https://es.wikipedia.org/wiki/YAML)
