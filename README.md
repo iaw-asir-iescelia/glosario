@@ -10,6 +10,8 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
 
+[Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
+
 ## AWStats
 
 AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
@@ -17,6 +19,19 @@ AWStats es una herramienta open source de informes de análisis web, apta para a
 # B
 
 # C
+
+## Composer
+
+Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
+
+* [Referencia1](https://librosweb.es/libro/composer/).
+* [Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
+
+## `composer.json`
+
+En este archivo tenemos toda la información ordenada para que se instalen todos los paquetes que necesitamos usar. En otras palabras, este archivo informa a Composer sobre las necesidades de nuestro sistema y hace su magía.
+
+[Referencia](https://rimorsoft.com/iniciando-un-proyecto-con-composer)
 
 ## Control de Versiones
 
@@ -26,17 +41,17 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
-## Composer
-
-Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
-
-[Referencia1](https://librosweb.es/libro/composer/).
-[Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
 # D
 
 ## Docker
 
 Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres para permitir que "contenedores" independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales. 
+
+## DevOps
+
+DevOps es una metodología de trabajo basada en el desarrollo de código que usa nuevas herramientas y prácticas para reducir la tradicional distancia entre técnicos de programación y de sistemas. Este nuevo enfoque de colaboración que es DevOps permite a los equipos trabajar de forma más cercana, aportando mayor agilidad al negocio y notables incrementos de productividad.
+
+[Referencia](https://es.wikipedia.org/wiki/DevOps)
 
 # E
 
@@ -57,8 +72,18 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 # I
 
 # J
+  ## JSON
+  
+Es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente.
+
+[Referencia](https://es.wikipedia.org/wiki/JSON)
 
 # K
+ ## Kubernetes
+ 
+ Kubernetes es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation). Soporta diferentes ambientes para la ejecución contenedores, incluido Docker.
+
+[Referencia](https://es.wikipedia.org/wiki/Kubernetes)
 
 # L
 
@@ -77,6 +102,15 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 
 # M
 
+## Markdown
+
+Markdown nació como herramienta de conversión de texto plano a HTML.
+Esta herramienta fue creada en 2004 por John Gruber y se distribuye de manera gratuita.
+Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
+Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
+
+[Referencia](https://markdown.es/)
+
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
@@ -93,6 +127,15 @@ Pronunciado en inglés “engine X” es un servidor web/proxy inverso ligero de
 
 Es software libre y de código abierto, licenciado bajo la Licencia BSD simplificada; también existe una versión comercial distribuida bajo el nombre de Nginx Plus.Es multiplataforma, por lo que corre en sistemas tipo Unix (GNU/Linux, BSD, Solaris, Mac OS X, etc.) y Windows.
 
+[Referencia](https://es.wikipedia.org/wiki/Nginx)
+
+## Netplan 
+
+Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simplemente crea una descripción YAML de las interfaces de red requeridas y para lo que debe configurarse cada una de ellas. A partir de esta descripción, Netplan generará toda la configuración necesaria para la herramienta de representación elegida.
+
+[Referencia](https://netplan.io/)
+
+
 # O
 
 # P
@@ -102,6 +145,8 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 # Q
 
 # R
+## Repositorio
+Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software . Los repositorios tienen sus inicios en los años 90, en el área de la física y las matemáticas, donde los académicos aprovecharon la red para compartir sus investigaciones con otros colegas. Este proceso era valioso porque aceleraba el ciclo científico de publicación y revisión de resultados.
 
 # S
 
@@ -123,3 +168,4 @@ YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en cast
 
 # Z
 
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
