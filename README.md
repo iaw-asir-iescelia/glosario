@@ -16,6 +16,12 @@ El servidor HTTP Apache es un servidor web HTTP de código abierto, para platafo
 
 AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
 
+## APT
+
+Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux.
+
+No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
+
 # B
 
 # C
@@ -56,6 +62,10 @@ DevOps es una metodología de trabajo basada en el desarrollo de código que usa
 # E
 
 # F
+
+## Flatpak
+
+Es una utilidad para despliegue de software, administración de paquetes, y virtualización de aplicaciones para entornos de escritorio de Linux. La utilidad proporciona un entorno de aislamiento de procesos llamado Bubblewrap, en el que los usuarios pueden ejecutar aplicaciones aisladas del resto del sistema. Las aplicaciones que utilizan Flatpak necesitan permiso del usuario para controlar dispositivos de hardware o acceder los archivos del usuario.
 
 # G
 
@@ -151,6 +161,10 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 ## Repositorio
 Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software . Los repositorios tienen sus inicios en los años 90, en el área de la física y las matemáticas, donde los académicos aprovecharon la red para compartir sus investigaciones con otros colegas. Este proceso era valioso porque aceleraba el ciclo científico de publicación y revisión de resultados.
 
+## React
+
+Es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre, han participado en el proyecto más de mil desarrolladores diferentes. React intenta ayudar a los desarrolladores a construir aplicaciones que usan datos que cambian todo el tiempo. Su objetivo es ser sencillo, declarativo y fácil de combinar. React sólo maneja la interfaz de usuario en una aplicación.
+
 # S
 
 # T
@@ -160,6 +174,11 @@ Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene 
 # V
 ## VAGRANT
 VAGRANT es un software de máquinas virtuales que permite desplegar máquinas virtuales automatizadas con un simple archivo de configuración y nos permite pasar la máquina virtual a donde queramos y a quien queramos con muy poco esfuerzo, ya que el el archivo que define la máquina virtual ocupa muy poco. Vagrant se usa en un entorno más bien de desarrollo, y no se usa en producción.  
+
+## Vagrantfile
+
+
+La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
 
 # W
 
