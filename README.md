@@ -114,7 +114,10 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 # U
 
 # V
-
+## VAGRANTFILE
+Son archivos de configuración, con una sintaxis sencilla, apta para dummies
+Los archivos de configuración Vagrantfile generan una box (máquina virtual) que puede ser compartida a través de repositorios (a lo Maven, Node, Bower, etc.)
+Hay repositorios públicos de Vagrant boxes
 # W
 
 # X
