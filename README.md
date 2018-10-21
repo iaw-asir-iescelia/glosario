@@ -118,6 +118,8 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 Son archivos de configuración, con una sintaxis sencilla, apta para dummies
 Los archivos de configuración Vagrantfile generan una box (máquina virtual) que puede ser compartida a través de repositorios (a lo Maven, Node, Bower, etc.)
 Hay repositorios públicos de Vagrant boxes
+## Vue.js
+VueJS se autodenomina como un framework progresivo. Cuando encaramos un desarrollo con VueJS, podemos indicar qué partes del framework queremos incluir. VueJS está modularizado en diferentes librerías separadas que permiten ir añadiendo funcionalidad en el momento que las vayamos necesitando.
 # W
 
 # X
