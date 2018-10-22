@@ -6,12 +6,17 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 # A
 
+## Angular
+
+Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA ( Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento). Además nos ofrece herramientas para trabajar con los elementos de una web de una manera más sencilla y optima.
+
+[Referencia](https://angular.io/)
+
 ## Ansible
 
 Ansible es una plataforma de software libre para configurar y administrar computadoras. Combina instalación multi-nodo, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Maneja nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior para instalarlo). Dispone de módulos que trabajan sobre JSON y la salida estándar puede ser escrita en cualquier lenguaje. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
 
 [Referencia](https://es.wikipedia.org/wiki/Ansible_(software))
-
 
 ## Apache Server
 
