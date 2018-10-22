@@ -17,6 +17,7 @@ AWStats es una herramienta open source de informes de análisis web, apta para a
 ## Angular
 
 Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA ( Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento). Además nos ofrece herramientas para trabajar con los elementos de una web de una manera más sencilla y optima.
+
 [Referencia](https://angular.io/)
 
 # B
