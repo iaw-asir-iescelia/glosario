@@ -135,6 +135,12 @@ Este método te permitirá añadir formatos tales como negritas, cursivas o enla
 
 [Referencia](https://markdown.es/)
 
+## MEAN stack
+
+MEAN Stack (acrónimo para: MongoDB, ExpressJS, AngularJS, NodeJS), es un framework o conjunto de subsistemas de software para el desarrollo de aplicaciones, y páginas web dinámicas, que están basadas, cada una de estas en el popular lenguaje de programación conocido como JavaScript. Gracias a esta característica el conjunto se integra exitosamente en una plataforma auto-suficiente.
+
+[WIKIPEDIA](https://es.wikipedia.org/wiki/MEAN)
+
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
@@ -146,7 +152,7 @@ MySQL es un sistema de gestión de base de datos relacional de código abierto, 
 ## MERN Stack
 
 MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
-  
+
 # N
 
 ## Node.js
