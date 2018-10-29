@@ -71,6 +71,9 @@ DevOps es una metodología de trabajo basada en el desarrollo de código que usa
 
 [Referencia](https://es.wikipedia.org/wiki/DevOps)
 
+## debconf-utils
+Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas de Unix) y es un paquete que contiene utilidades para los desarrolladores. 
+
 # E
 
 # F
