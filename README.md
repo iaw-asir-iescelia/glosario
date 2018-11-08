@@ -155,6 +155,8 @@ Magento es una plataforma de comercio en línea, de código liberado (opensource
 Magento permite la construcción de un sitio totalmente a medida y tener control absoluto sobre las funcionalidades del canal de venta. Gracias a su concepción de sistema modular, es altamente flexible y escalable. Su filosofía de código liberado cuenta con el apoyo de una comunidad muy activa y extensa de desarrolladores.
 Por estas dos características y la inteligencia con la que está desarrollado su núcleo se ha convertido en el software en línea de comercio electrónico más popular y usado en todo el mundo.
 
+[referencia](https://magento.com/products)
+
 
 # N
 
