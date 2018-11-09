@@ -111,6 +111,10 @@ Aproximación para el desarrollo de software que consiste en construir una aplic
 ## MySQL
 
 MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+
+## MediaWiki
+
+MediaWiki es un software para wikis libre programado en el lenguaje PHP. Es el software usado por Wikipedia y otros proyectos de la Fundación Wikimedia (Wikcionario, Wikilibros, etc). Ha tenido una gran expansión desde 2005, existiendo un gran número de wikis basados en este software que no mantienen relación con dicha fundación, aunque sí comparten la idea de la generación de contenidos de manera colaborativa. Se encuentra bajo la licencia de software GNU General Public License.
   
 # N
 
