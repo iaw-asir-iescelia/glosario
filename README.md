@@ -1,4 +1,4 @@
-# glosario
+# Glosario
 
 Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
@@ -6,9 +6,23 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 # A
 
+## Angular
+
+Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA ( Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento). Además nos ofrece herramientas para trabajar con los elementos de una web de una manera más sencilla y optima.
+
+[Referencia](https://angular.io/)
+
+## Ansible
+
+Ansible es una plataforma de software libre para configurar y administrar computadoras. Combina instalación multi-nodo, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Maneja nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior para instalarlo). Dispone de módulos que trabajan sobre JSON y la salida estándar puede ser escrita en cualquier lenguaje. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
+
+[Referencia](https://es.wikipedia.org/wiki/Ansible_(software))
+
 ## Apache Server
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
+
+[Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
 
 ## AWStats
 
@@ -23,6 +37,19 @@ No existe un programa apt en sí mismo, sino que APT es una biblioteca de funcio
 # B
 
 # C
+
+## Composer
+
+Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
+
+* [Referencia1](https://librosweb.es/libro/composer/).
+* [Referencia2](https://styde.net/que-es-composer-y-como-usarlo/)
+
+## `composer.json`
+
+En este archivo tenemos toda la información ordenada para que se instalen todos los paquetes que necesitamos usar. En otras palabras, este archivo informa a Composer sobre las necesidades de nuestro sistema y hace su magía.
+
+[Referencia](https://rimorsoft.com/iniciando-un-proyecto-con-composer)
 
 ## Control de Versiones
 
@@ -41,6 +68,15 @@ Docker es un proyecto de código abierto que automatiza el despliegue de aplicac
 ## Drupal
 
 Drupal es un sistema de gestión de contenidos o CMS libre, modular, multipropósito y muy configurable que permite publicar artículos, imágenes, archivos y que también ofrece la posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs, administración de usuarios y permisos. Drupal es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL, desarrollado y mantenido por una activa comunidad de usuarios. Destaca por la calidad de su código y de las páginas generadas, el respeto de los estándares de la web, y un énfasis especial en la usabilidad y consistencia de todo el sistema.
+
+## DevOps
+
+DevOps es una metodología de trabajo basada en el desarrollo de código que usa nuevas herramientas y prácticas para reducir la tradicional distancia entre técnicos de programación y de sistemas. Este nuevo enfoque de colaboración que es DevOps permite a los equipos trabajar de forma más cercana, aportando mayor agilidad al negocio y notables incrementos de productividad.
+
+[Referencia](https://es.wikipedia.org/wiki/DevOps)
+
+## debconf-utils
+Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas de Unix) y es un paquete que contiene utilidades para los desarrolladores. 
 
 # E
 
@@ -66,7 +102,19 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 
 # J
 
+## JSON
+  
+Es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente.
+
+[Referencia](https://es.wikipedia.org/wiki/JSON)
+
 # K
+
+## Kubernetes
+ 
+Kubernetes es un sistema de código libre para la automatización del despliegue, ajuste de escala y manejo de aplicaciones en contenedores que fue originalmente diseñado por Google y donado a la Cloud Native Computing Foundation (parte de la Linux Foundation). Soporta diferentes ambientes para la ejecución contenedores, incluido Docker.
+
+[Referencia](https://es.wikipedia.org/wiki/Kubernetes)
 
 # L
 
@@ -85,6 +133,21 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 
 # M
 
+## Markdown
+
+Markdown nació como herramienta de conversión de texto plano a HTML.
+Esta herramienta fue creada en 2004 por John Gruber y se distribuye de manera gratuita.
+Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
+Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
+
+[Referencia](https://markdown.es/)
+
+## MEAN stack
+
+MEAN Stack (acrónimo para: MongoDB, ExpressJS, AngularJS, NodeJS), es un framework o conjunto de subsistemas de software para el desarrollo de aplicaciones, y páginas web dinámicas, que están basadas, cada una de estas en el popular lenguaje de programación conocido como JavaScript. Gracias a esta característica el conjunto se integra exitosamente en una plataforma auto-suficiente.
+
+[WIKIPEDIA](https://es.wikipedia.org/wiki/MEAN)
+
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
@@ -92,8 +155,22 @@ Aproximación para el desarrollo de software que consiste en construir una aplic
 ## MySQL
 
 MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+
+## MediaWiki
+
+MediaWiki es un software para wikis libre programado en el lenguaje PHP. Es el software usado por Wikipedia y otros proyectos de la Fundación Wikimedia (Wikcionario, Wikilibros, etc). Ha tenido una gran expansión desde 2005, existiendo un gran número de wikis basados en este software que no mantienen relación con dicha fundación, aunque sí comparten la idea de la generación de contenidos de manera colaborativa. Se encuentra bajo la licencia de software GNU General Public License.
   
+## MERN Stack
+
+MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
+
 # N
+
+## Node.js
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
+
+[Referencia](https://www.luisllamas.es/que-es-node-js/)
 
 ## Nginx
 
@@ -101,15 +178,32 @@ Pronunciado en inglés “engine X” es un servidor web/proxy inverso ligero de
 
 Es software libre y de código abierto, licenciado bajo la Licencia BSD simplificada; también existe una versión comercial distribuida bajo el nombre de Nginx Plus.Es multiplataforma, por lo que corre en sistemas tipo Unix (GNU/Linux, BSD, Solaris, Mac OS X, etc.) y Windows.
 
+[Referencia](https://es.wikipedia.org/wiki/Nginx)
+
+## Netplan 
+
+Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simplemente crea una descripción YAML de las interfaces de red requeridas y para lo que debe configurarse cada una de ellas. A partir de esta descripción, Netplan generará toda la configuración necesaria para la herramienta de representación elegida.
+
+[Referencia](https://netplan.io/)
+
 # O
 
 # P
 ## PHP
+
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+
+## Puppet
+
+Puppet es una herramienta diseñada para administrar la configuración de sistemas similares a Unix y a Microsoft Windows de forma declarativa. El usuario describe los recursos del sistema y sus estados utilizando el lenguaje declarativo que proporciona Puppet. Esta información es almacenada en archivos denominados manifiestos Puppet. Puppet descubre la información del sistema a través de una utilidad llamada Facter, y compila los manifiestos en un catálogo específico del sistema que contiene los recursos y la dependencia de dichos recursos. Estos catálogos son ejecutados en los sistemas de destino.
 
 # Q
 
 # R
+
+## Repositorio
+
+Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software . Los repositorios tienen sus inicios en los años 90, en el área de la física y las matemáticas, donde los académicos aprovecharon la red para compartir sus investigaciones con otros colegas. Este proceso era valioso porque aceleraba el ciclo científico de publicación y revisión de resultados.
 
 ## React
 
@@ -117,14 +211,23 @@ Es una biblioteca Javascript de código abierto diseñada para crear interfaces 
 
 # S
 
+## Snappy
+ 
+Snappy es un sistema de gestión de paquetes e implementación de software diseñado y creado originalmente por Canonical para el sistema operativo de teléfonos Ubuntu. Los paquetes, llamados 'snaps' y la herramienta para usarlos 'snapd', funcionan en un rango de distribuciones de Linux.
+
+[Referencia](https://es.wikipedia.org/wiki/Snappy)
+
 # T
 
 # U
 
 # V
 
-## Vagrantfile
+## Vagrant
 
+Vagrant es un software de máquinas virtuales que permite desplegar máquinas virtuales automatizadas con un simple archivo de configuración y nos permite pasar la máquina virtual a donde queramos y a quien queramos con muy poco esfuerzo, ya que el el archivo que define la máquina virtual ocupa muy poco. Vagrant se usa en un entorno más bien de desarrollo, y no se usa en producción.  
+
+## Vagrantfile
 
 La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
 
@@ -133,10 +236,13 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 # X
 
 # Y
+
 ## YAML
+
 YAML es un acrónimo recursivo que significa YAML Ain't Markup Language (en castellano, ‘YAML no es un lenguaje de marcado’). A comienzos de su desarrollo, YAML significaba Yet Another Markup Language (‘otro lenguaje de marcado más’) para distinguir su propósito centrado en los datos en lugar del marcado de documentos. Sin embargo, dado que se usa frecuentemente XML para serializar datos y XML es un auténtico lenguaje de marcado de documentos, es razonable considerar YAML como un lenguaje de marcado ligero.
 
 [Referencia](https://es.wikipedia.org/wiki/YAML)
 
 # Z
 
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
