@@ -65,13 +65,18 @@ El control de versiones se realiza principalmente en la industria informática p
 
 Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres para permitir que "contenedores" independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales. 
 
+## Drupal
+
+Drupal es un sistema de gestión de contenidos o CMS libre, modular, multipropósito y muy configurable que permite publicar artículos, imágenes, archivos y que también ofrece la posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs, administración de usuarios y permisos. Drupal es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL, desarrollado y mantenido por una activa comunidad de usuarios. Destaca por la calidad de su código y de las páginas generadas, el respeto de los estándares de la web, y un énfasis especial en la usabilidad y consistencia de todo el sistema.
+
 ## DevOps
 
 DevOps es una metodología de trabajo basada en el desarrollo de código que usa nuevas herramientas y prácticas para reducir la tradicional distancia entre técnicos de programación y de sistemas. Este nuevo enfoque de colaboración que es DevOps permite a los equipos trabajar de forma más cercana, aportando mayor agilidad al negocio y notables incrementos de productividad.
 
 [Referencia](https://es.wikipedia.org/wiki/DevOps)
 
-## debconf-utils
+## `debconf-utils`
+
 Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas de Unix) y es un paquete que contiene utilidades para los desarrolladores. 
 
 # E
@@ -138,6 +143,12 @@ Este método te permitirá añadir formatos tales como negritas, cursivas o enla
 
 [Referencia](https://markdown.es/)
 
+## MEAN stack
+
+MEAN Stack (acrónimo para: MongoDB, ExpressJS, AngularJS, NodeJS), es un framework o conjunto de subsistemas de software para el desarrollo de aplicaciones, y páginas web dinámicas, que están basadas, cada una de estas en el popular lenguaje de programación conocido como JavaScript. Gracias a esta característica el conjunto se integra exitosamente en una plataforma auto-suficiente.
+
+[Referencia](https://es.wikipedia.org/wiki/MEAN)
+
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
@@ -146,17 +157,21 @@ Aproximación para el desarrollo de software que consiste en construir una aplic
 
 MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
 
+## MediaWiki
+
+MediaWiki es un software para wikis libre programado en el lenguaje PHP. Es el software usado por Wikipedia y otros proyectos de la Fundación Wikimedia (Wikcionario, Wikilibros, etc). Ha tenido una gran expansión desde 2005, existiendo un gran número de wikis basados en este software que no mantienen relación con dicha fundación, aunque sí comparten la idea de la generación de contenidos de manera colaborativa. Se encuentra bajo la licencia de software GNU General Public License.
+  
 ## MERN Stack
 
 MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
   
 ## Magento
+
 Magento es una plataforma de comercio en línea, de código liberado (opensource), con el que se pueden llevar a cabo todo tipo de proyectos relacionados con la venta en Internet.
 Magento permite la construcción de un sitio totalmente a medida y tener control absoluto sobre las funcionalidades del canal de venta. Gracias a su concepción de sistema modular, es altamente flexible y escalable. Su filosofía de código liberado cuenta con el apoyo de una comunidad muy activa y extensa de desarrolladores.
 Por estas dos características y la inteligencia con la que está desarrollado su núcleo se ha convertido en el software en línea de comercio electrónico más popular y usado en todo el mundo.
 
-[referencia](https://magento.com/products)
-
+[Referencia](https://magento.com/products)
 
 # N
 
@@ -186,6 +201,10 @@ Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simpl
 ## PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+
+## Puppet
+
+Puppet es una herramienta diseñada para administrar la configuración de sistemas similares a Unix y a Microsoft Windows de forma declarativa. El usuario describe los recursos del sistema y sus estados utilizando el lenguaje declarativo que proporciona Puppet. Esta información es almacenada en archivos denominados manifiestos Puppet. Puppet descubre la información del sistema a través de una utilidad llamada Facter, y compila los manifiestos en un catálogo específico del sistema que contiene los recursos y la dependencia de dichos recursos. Estos catálogos son ejecutados en los sistemas de destino.
 
 # Q
 
