@@ -75,7 +75,8 @@ DevOps es una metodología de trabajo basada en el desarrollo de código que usa
 
 [Referencia](https://es.wikipedia.org/wiki/DevOps)
 
-## debconf-utils
+## `debconf-utils`
+
 Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas de Unix) y es un paquete que contiene utilidades para los desarrolladores. 
 
 # E
@@ -146,7 +147,7 @@ Este método te permitirá añadir formatos tales como negritas, cursivas o enla
 
 MEAN Stack (acrónimo para: MongoDB, ExpressJS, AngularJS, NodeJS), es un framework o conjunto de subsistemas de software para el desarrollo de aplicaciones, y páginas web dinámicas, que están basadas, cada una de estas en el popular lenguaje de programación conocido como JavaScript. Gracias a esta característica el conjunto se integra exitosamente en una plataforma auto-suficiente.
 
-[WIKIPEDIA](https://es.wikipedia.org/wiki/MEAN)
+[Referencia](https://es.wikipedia.org/wiki/MEAN)
 
 ## Microservicio
 
@@ -163,6 +164,14 @@ MediaWiki es un software para wikis libre programado en el lenguaje PHP. Es el s
 ## MERN Stack
 
 MERN o pila MERN es un acrónimo el cual se usa para describir una serie de aplicaciones que tiene como objetivo crear aplicaciones web modernas con Javascript como principal lenguaje tanto el Frontend como en el Backend y la Base de datos. La pila MERN engloba aplicaciones para Full JavaScript es decir que en el cliente y en el servidor se usa integramente JavaScript. Sus siglas en ingles definden a **Mongo** que es una de las bases de datos **no relacionales** mas famosas de hoy día. **Express** es una infraestructura de **aplicaciones web Node.js** mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles. **React** que es una librería de JavaScript de código abierto diseñada para **crear interfaces de usuario** con el objetivo de facilitar el desarrollo de aplicaciones en una sola página y matenida por Facebook. **Node.js** es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor que permite ejecutar JavaScript en cualquier servidor.
+  
+## Magento
+
+Magento es una plataforma de comercio en línea, de código liberado (opensource), con el que se pueden llevar a cabo todo tipo de proyectos relacionados con la venta en Internet.
+Magento permite la construcción de un sitio totalmente a medida y tener control absoluto sobre las funcionalidades del canal de venta. Gracias a su concepción de sistema modular, es altamente flexible y escalable. Su filosofía de código liberado cuenta con el apoyo de una comunidad muy activa y extensa de desarrolladores.
+Por estas dos características y la inteligencia con la que está desarrollado su núcleo se ha convertido en el software en línea de comercio electrónico más popular y usado en todo el mundo.
+
+[Referencia](https://magento.com/products)
 
 # N
 
