@@ -8,13 +8,13 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 ## Angular
 
-Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA ( Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento). Además nos ofrece herramientas para trabajar con los elementos de una web de una manera más sencilla y optima.
+Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA (*Single-Page Application*). Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento.
 
-[Referencia](https://angular.io/)
+[Referencia](https://angular.io)
 
 ## Ansible
 
-Ansible es una plataforma de software libre para configurar y administrar computadoras. Combina instalación multi-nodo, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Maneja nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior para instalarlo). Dispone de módulos que trabajan sobre JSON y la salida estándar puede ser escrita en cualquier lenguaje. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
+Ansible es una plataforma de software libre para configurar y administrar computadoras. Combina instalación multi-nodo, ejecuciones de tareas ad-hoc y administración de configuraciones. Ansible es categorizado como una herramienta de orquestación. Dispone de módulos que trabajan sobre JSON y la salida estándar puede ser escrita en cualquier lenguaje. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
 
 [Referencia](https://es.wikipedia.org/wiki/Ansible_(software))
 
@@ -28,11 +28,13 @@ El servidor HTTP Apache es un servidor web HTTP de código abierto, para platafo
 
 AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
 
-## APT
+[Referencia](https://es.wikipedia.org/wiki/Awstats)
 
-Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux.
+## APT (*Advanced Packaging Tool*)
 
-No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
+Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux. No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
+
+[Referencias](https://es.wikipedia.org/wiki/Advanced_Packaging_Tool)
 
 # B
 
@@ -59,15 +61,21 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
+[Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
+
 # D
 
 ## Docker
 
 Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres para permitir que "contenedores" independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales. 
 
+[Referencia](https://es.wikipedia.org/wiki/Docker_(software))
+
 ## Drupal
 
 Drupal es un sistema de gestión de contenidos o CMS libre, modular, multipropósito y muy configurable que permite publicar artículos, imágenes, archivos y que también ofrece la posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs, administración de usuarios y permisos. Drupal es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL, desarrollado y mantenido por una activa comunidad de usuarios. Destaca por la calidad de su código y de las páginas generadas, el respeto de los estándares de la web, y un énfasis especial en la usabilidad y consistencia de todo el sistema.
+
+[Referencia](https://es.wikipedia.org/wiki/Drupal)
 
 ## DevOps
 
@@ -87,15 +95,21 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 
 Es una utilidad para despliegue de software, administración de paquetes, y virtualización de aplicaciones para entornos de escritorio de Linux. La utilidad proporciona un entorno de aislamiento de procesos llamado Bubblewrap, en el que los usuarios pueden ejecutar aplicaciones aisladas del resto del sistema. Las aplicaciones que utilizan Flatpak necesitan permiso del usuario para controlar dispositivos de hardware o acceder los archivos del usuario.
 
+[Referencia](https://es.wikipedia.org/wiki/Flatpak)
+
 # G
 
 ## Git
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
 
+[Referencia](https://es.wikipedia.org/wiki/Git)
+
 ## GoAccess
 
 Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
+
+[Referencia](https://goaccess.io)
 
 # H
 
@@ -122,6 +136,8 @@ Kubernetes es un sistema de código libre para la automatización del despliegue
 ## LAMP
 
 LAMP o pila LAMP es un acrónimo el cual se usa para describir una serie de aplicaciones que se ejecutan en un entorno          servidor gobernado por el S.O. **Linux** (**L**). Las aplicaciones que se ejecutan son las propias de un servidor de contenidos Web, para ello se ejecuta el servidor web **Apache** (**A**), el sistema gestor de Bases de Datos **MySQL** (**M**) y el lenguaje de programación de servidor **PHP** (**P**).
+
+[Referencia](https://es.wikipedia.org/wiki/LAMP)
 
 ## LEMP
 
@@ -152,14 +168,20 @@ MEAN Stack (acrónimo para: MongoDB, ExpressJS, AngularJS, NodeJS), es un framew
 ## Microservicio
 
 Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros.
+
+[Referencia](https://es.wikipedia.org/wiki/Arquitectura_de_microservicios)
   
 ## MySQL
 
-MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado (SQL)
+MySQL es un sistema de gestión de base de datos relacional de código abierto, basado en lenguaje de consulta estructurado SQL.
+
+[Referencia](https://es.wikipedia.org/wiki/MySQL)
 
 ## MediaWiki
 
 MediaWiki es un software para wikis libre programado en el lenguaje PHP. Es el software usado por Wikipedia y otros proyectos de la Fundación Wikimedia (Wikcionario, Wikilibros, etc). Ha tenido una gran expansión desde 2005, existiendo un gran número de wikis basados en este software que no mantienen relación con dicha fundación, aunque sí comparten la idea de la generación de contenidos de manera colaborativa. Se encuentra bajo la licencia de software GNU General Public License.
+  
+[Referencia](https://es.wikipedia.org/wiki/MediaWiki)
   
 ## MERN Stack
 
@@ -167,7 +189,7 @@ MERN o pila MERN es un acrónimo el cual se usa para describir una serie de apli
 
 ## Moodle
 
-Moodle (pronunciación AFI /ˈmuːd(ə)l/) es una herramienta de gestión de aprendizaje (LMS), o más concretamente de Learning Content Management (LCMS), de distribución libre, escrita en PHP1. Está concebida para ayudar a los educadores a crear comunidades de aprendizaje en línea2, Moodle es usada en blended learning, educación a distancia, clase invertida y diversos proyectos de e-learning en escuelas, universidades, oficinas y otros sectores3.4. . La versión más reciente es la 3.5.
+Moodle es una herramienta de gestión de aprendizaje (LMS), o más concretamente de Learning Content Management (LCMS), de distribución libre, escrita en PHP1. Está concebida para ayudar a los educadores a crear comunidades de aprendizaje en línea2, Moodle es usada en blended learning, educación a distancia, clase invertida y diversos proyectos de e-learning en escuelas, universidades, oficinas y otros sectores3.4. . La versión más reciente es la 3.5.
 
 [Referencia](https://es.wikipedia.org/wiki/Moodle)
 
@@ -208,9 +230,13 @@ Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simpl
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
+[Referencia](https://es.wikipedia.org/wiki/PHP)
+
 ## Puppet
 
 Puppet es una herramienta diseñada para administrar la configuración de sistemas similares a Unix y a Microsoft Windows de forma declarativa. El usuario describe los recursos del sistema y sus estados utilizando el lenguaje declarativo que proporciona Puppet. Esta información es almacenada en archivos denominados manifiestos Puppet. Puppet descubre la información del sistema a través de una utilidad llamada Facter, y compila los manifiestos en un catálogo específico del sistema que contiene los recursos y la dependencia de dichos recursos. Estos catálogos son ejecutados en los sistemas de destino.
+
+[Referencia](https://es.wikipedia.org/wiki/Puppet_(software))
 
 # Q
 
@@ -223,6 +249,8 @@ Un repositorio es un espacio centralizado donde se almacena, organiza, mantiene 
 ## React
 
 Es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre, han participado en el proyecto más de mil desarrolladores diferentes. React intenta ayudar a los desarrolladores a construir aplicaciones que usan datos que cambian todo el tiempo. Su objetivo es ser sencillo, declarativo y fácil de combinar. React sólo maneja la interfaz de usuario en una aplicación.
+
+[Referencia](https://es.wikipedia.org/wiki/React)
 
 # S
 
@@ -241,6 +269,8 @@ Snappy es un sistema de gestión de paquetes e implementación de software dise�
 ## Vagrant
 
 Vagrant es un software de máquinas virtuales que permite desplegar máquinas virtuales automatizadas con un simple archivo de configuración y nos permite pasar la máquina virtual a donde queramos y a quien queramos con muy poco esfuerzo, ya que el el archivo que define la máquina virtual ocupa muy poco. Vagrant se usa en un entorno más bien de desarrollo, y no se usa en producción.  
+
+[Referencia](https://es.wikipedia.org/wiki/Vagrant_(software))
 
 ## Vagrantfile
 
