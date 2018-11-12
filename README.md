@@ -57,6 +57,12 @@ Es un formato de texto ligero para el intercambio de datos. JSON es un subconjun
 
 [referencia](https://es.wikipedia.org/wiki/JSON)
 
+  ## Joomla
+
+Joomla es un sistema de gestión de contenidos o CMS que en inglés significa Content Management System que permite desarrollar sitios web dinámicos e interactivos.
+
+ [Referencia](https://iiemd.com/joomla/que-es-joomla)
+
 # K
  ## Kubernetes
  
