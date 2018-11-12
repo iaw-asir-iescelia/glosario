@@ -102,6 +102,15 @@ Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simpl
 # P
 ## PHP
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+## PRESTASHOP
+#PrestaShop es un sistema gestor de contenidos (CMS) libre y de código abierto, orientado principalmente a la creación de tiendas en línea de comercio electrónico (de ahí su denominación de Shop, tienda ).
+
+Está basado en PHP, MySQL y Smarty.
+PrestaShop está disponible bajo la licencia Open Software. El software está escrito en PHP y basado en el motor de plantillas Smarty. MySQL1 es el motor de base de datos predeterminado.
+Se puede disponer de versiones en 63 idiomas, entre ellos: inglés, francés, holandés, portugués, alemán, español, italiano, polaco y ruso.
+El software hace uso extensivo de AJAX en el panel de administración, mientras que los bloques de módulos pueden ser fácilmente añadidos a la tienda con el fin proporcionar funcionalidad adicional; estos normalmente están proporcionados de forma gratuita por los desarrolladores independientes
+Prestashop es compatible con las pasarelas de pago más usuales. También se ofrecen módulos de pago adicionales en el mercado.
+[Fuente: ]https://es.wikipedia.org/wiki/PrestaShop
 
 # Q
 
