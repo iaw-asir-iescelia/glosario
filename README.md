@@ -110,7 +110,8 @@ PrestaShop está disponible bajo la licencia Open Software. El software está es
 Se puede disponer de versiones en 63 idiomas, entre ellos: inglés, francés, holandés, portugués, alemán, español, italiano, polaco y ruso.
 El software hace uso extensivo de AJAX en el panel de administración, mientras que los bloques de módulos pueden ser fácilmente añadidos a la tienda con el fin proporcionar funcionalidad adicional; estos normalmente están proporcionados de forma gratuita por los desarrolladores independientes
 Prestashop es compatible con las pasarelas de pago más usuales. También se ofrecen módulos de pago adicionales en el mercado.
-[Fuente: ]https://es.wikipedia.org/wiki/PrestaShop
+
+[REFERNCIA:](https://es.wikipedia.org/wiki/PrestaShop)
 
 # Q
 
