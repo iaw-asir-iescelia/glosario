@@ -123,6 +123,12 @@ Es un formato de texto ligero para el intercambio de datos. JSON es un subconjun
 
 [Referencia](https://es.wikipedia.org/wiki/JSON)
 
+  ## Joomla
+
+Joomla es un sistema de gestión de contenidos o CMS que en inglés significa Content Management System que permite desarrollar sitios web dinámicos e interactivos.
+
+ [Referencia](https://iiemd.com/joomla/que-es-joomla)
+
 # K
 
 ## Kubernetes
@@ -222,6 +228,12 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simplemente crea una descripción YAML de las interfaces de red requeridas y para lo que debe configurarse cada una de ellas. A partir de esta descripción, Netplan generará toda la configuración necesaria para la herramienta de representación elegida.
 
 [Referencia](https://netplan.io/)
+
+## NFS (Network File System)
+
+Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para sistemas de archivos distribuido en un entorno de red de computadoras de área local. Posibilita que distintos sistemas conectados a una misma red accedan a ficheros remotos como si se tratara de locales. 
+
+[Referencia](https://es.wikipedia.org/wiki/Network_File_System)
 
 # O
 
