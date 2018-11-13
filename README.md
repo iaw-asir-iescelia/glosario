@@ -40,6 +40,12 @@ Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplif
 
 # C
 
+### CMS
+**Content Management Sistem** o CMS que en español quiere decir Sistema de gestion de contenido o **Sistema Gestor de Contenidos** es un programa el cual permite crear, administrar y gestionar un sitio Web además del propio CMS. Como norma general los mayores CMSs tienen soporte para la mayoria de los servicios que se usan hoy día en Internet como Correo, JavaScript, PHP, CSS y muchos más servicios. Los CMSs más famosos son [Wordpress](https://es.wordpress.org/), [Moodle](https://moodle.org/?lang=es) o [Prestashop](https://www.prestashop.com/es) entre otros muchos.
+
+* [Referencia1](https://www.webempresa.com/blog/que-es-cms-los-mejores-gestores-de-contenido.html)
+* [Referencia2](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos)
+
 ## Composer
 
 Composer es un manejador de dependencias PHP. Es decir es el encargado de llamar a las dependencias y paquetes PHP que use cualquier programa PHP. Esta herramienta nos permite automatizar la instalación de programas PHP y de este modo no tenemos que llamar a las dependencias PHP manualmente, ya que **composer** las conoce y las llama automaticamente.
@@ -90,6 +96,12 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 # E
 
 # F
+
+## Fail2ban
+
+**Fail2ban** es una aplicación de prevención de intrusos la cual nos permite bloquear ataques de fuerza bruta que intentan acceder a los servicios más comunes (SSH, FTP, etc...). Este programa de codigo abierto y programado en Phyton actua penalizando o bloqueando las conexiones remotas que intentan accesos por fuerza bruta.
+
+[Referencia](https://es.wikipedia.org/wiki/Fail2ban)
 
 ## Flatpak
 
