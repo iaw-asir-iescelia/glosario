@@ -90,6 +90,10 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 
 Es una utilidad para despliegue de software, administración de paquetes, y virtualización de aplicaciones para entornos de escritorio de Linux. La utilidad proporciona un entorno de aislamiento de procesos llamado Bubblewrap, en el que los usuarios pueden ejecutar aplicaciones aisladas del resto del sistema. Las aplicaciones que utilizan Flatpak necesitan permiso del usuario para controlar dispositivos de hardware o acceder los archivos del usuario.
 
+## Flask
+
+Flask es un framework minimalista escrito en Python que permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código. Está basado en la especificación WSGI de Werkzeug y el motor de templates Jinja2 y tiene una licencia BSD.
+
 # G
 
 ## Git
