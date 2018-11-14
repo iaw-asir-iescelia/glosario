@@ -231,6 +231,10 @@ Vagrant es un software de máquinas virtuales que permite desplegar máquinas vi
 
 La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
 
+## VPS
+
+Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
+
 # W
 
 # X
