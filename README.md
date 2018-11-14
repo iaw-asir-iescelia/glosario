@@ -173,6 +173,12 @@ Por estas dos características y la inteligencia con la que está desarrollado s
 
 [Referencia](https://magento.com/products)
 
+## Microsoft Azure
+
+Microsoft Azure, antes conocido como Windows Azure, es la plataforma de computación en nube pública de Microsoft. Proporciona una gama de servicios en la nube, incluidos los de computación, analítica, almacenamiento y redes. Los usuarios pueden elegir entre estos servicios para desarrollar y escalar nuevas aplicaciones, o ejecutar aplicaciones existentes, en la nube pública.
+
+[Referencia](https://azure.microsoft.com/es-es/overview/what-is-azure/)
+
 # N
 
 ## Node.js
