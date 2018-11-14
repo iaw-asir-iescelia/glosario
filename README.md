@@ -36,6 +36,10 @@ Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplif
 
 [Referencias](https://es.wikipedia.org/wiki/Advanced_Packaging_Tool)
 
+## Amazon cloudfront
+
+Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
+
 # B
 
 # C
@@ -108,6 +112,10 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 Es una utilidad para despliegue de software, administración de paquetes, y virtualización de aplicaciones para entornos de escritorio de Linux. La utilidad proporciona un entorno de aislamiento de procesos llamado Bubblewrap, en el que los usuarios pueden ejecutar aplicaciones aisladas del resto del sistema. Las aplicaciones que utilizan Flatpak necesitan permiso del usuario para controlar dispositivos de hardware o acceder los archivos del usuario.
 
 [Referencia](https://es.wikipedia.org/wiki/Flatpak)
+
+## Flask
+
+Flask es un framework minimalista escrito en Python que permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código. Está basado en la especificación WSGI de Werkzeug y el motor de templates Jinja2 y tiene una licencia BSD.
 
 # G
 
@@ -299,6 +307,10 @@ Vagrant es un software de máquinas virtuales que permite desplegar máquinas vi
 ## Vagrantfile
 
 La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
+
+## VPS
+
+Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
 
 # W
 
