@@ -36,6 +36,11 @@ No existe un programa apt en sí mismo, sino que APT es una biblioteca de funcio
 
 # B
 
+## Bitnami
+Bitnami es una plataforma que nos permite montar y configurar fácilmente todo tipo de aplicaciones web y servidores de manera similar a como funciona Docker o los instaladores automáticos que nos ofrecen los distintos hosting, pero mucho más completo y fácil de utilizar. Dentro de esta plataforma hay más de 130 servidores y aplicaciones web listas para implementar en cualquier servidor, tanto local como remotos, gracias a que está integrado con las principales nubes del mercado, como AWS, Google, Oracle o Azure.
+
+[Referencia](https://bitnami.com/)
+
 # C
 
 ## Composer
@@ -96,6 +101,8 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 ## GoAccess
 
 Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
+
+
 
 # H
 
