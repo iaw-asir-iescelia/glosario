@@ -36,6 +36,10 @@ Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplif
 
 [Referencias](https://es.wikipedia.org/wiki/Advanced_Packaging_Tool)
 
+## AWS (Amazon Web Services)
+plataforma segura de servicios en la nube que ofrece potencia de cómputo, almacenamiento de bases de datos, entrega de contenido y otras funcionalidades para ayudar a las empresas a ajustar su escala y crecer.
+[Referencia](https://aws.amazon.com/es/what-is-aws/)
+
 # B
 
 # C
@@ -62,6 +66,12 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
+
+## Contenedor
+
+Los contenedores de aplicaciones son entornos ligeros de tiempo de ejecución que proporcionan a las aplicaciones los archivos, las variables y las bibliotecas que necesitan para ejecutarse, maximizando de esta forma su portabilidad.
+
+[Referencia](https://www.hpe.com/es/es/what-is/containers.html)
 
 # D
 
@@ -206,6 +216,12 @@ Magento permite la construcción de un sitio totalmente a medida y tener control
 Por estas dos características y la inteligencia con la que está desarrollado su núcleo se ha convertido en el software en línea de comercio electrónico más popular y usado en todo el mundo.
 
 [Referencia](https://magento.com/products)
+
+## Memcahed
+
+Memcached es un sistema distribuido de propósito general para caché basado en memoria, diseñado por Danga Interactive y que es muy usado en la actualidad por múltiples sitios web.
+
+[Referencia](https://es.wikipedia.org/wiki/Memcached)
 
 # N
 
