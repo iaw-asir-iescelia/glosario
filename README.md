@@ -239,7 +239,7 @@ Por estas dos características y la inteligencia con la que está desarrollado s
 
 [Referencia](https://magento.com/products)
 
-## Memcahed
+## Memcached
 
 Memcached es un sistema distribuido de propósito general para caché basado en memoria, diseñado por Danga Interactive y que es muy usado en la actualidad por múltiples sitios web.
 
