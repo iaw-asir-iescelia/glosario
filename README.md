@@ -63,6 +63,11 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
 
 # H
+## Http
+El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
+Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente (se le suele llamar "agente de usuario", en inglés user agent) realiza una petición enviando un mensaje, con cierto formato al servidor. El servidor (se le suele llamar un servidor web) le envía un mensaje de respuesta. Ejemplos de cliente son los navegadores web y las arañas web (también conocidas por su término inglés, webcrawlers
+[REFERENCIA:](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
+
 
 # I
 
