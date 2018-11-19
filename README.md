@@ -25,6 +25,16 @@ Se llama control de versiones a la gestión de los diversos cambios que se reali
 Aunque un sistema de control de versiones puede realizarse de forma manual, es muy aconsejable disponer de herramientas que faciliten esta gestión dando lugar a los llamados sistemas de control de versiones o VCS (del inglés Version Control System). Estos sistemas facilitan la administración de las distintas versiones de cada producto desarrollado, así como las posibles especializaciones realizadas (por ejemplo, para algún cliente específico). Ejemplos de este tipo de herramientas son entre otros: CVS, Subversion, SourceSafe, ClearCase, Darcs, Bazaar, Plastic SCM, Git, SCCS, Mercurial, Perforce, Fossil SCM, Team Foundation Server.
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
+## Cloud Computing
+ 
+Computación en la nube
+La computación en la nube (del inglés cloud computing),1 conocida también como servicios en la nube, informática en la nube, nube de cómputo, nube de conceptos o simplemente "la nube", es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es Internet.
+En este tipo de computación todo lo que puede ofrecer un sistema informático se ofrece como servicio, de modo que los usuarios puedan acceder a los servicios disponibles "en la nube de Internet" sin conocimientos en la gestión de los recursos que usan
+La computación en la nube son servidores desde Internet encargados de atender las peticiones en cualquier momento. Se puede tener acceso a su información o servicio, mediante una conexión a internet desde cualquier dispositivo móvil o fijo ubicado en cualquier lugar. Sirven a sus usuarios desde varios proveedores de alojamiento repartidos frecuentemente por todo el mundo. Esta medida reduce los costos, garantiza un mejor tiempo de actividad y que los sitios web sean invulnerables a los delincuentes informáticos, a los gobiernos locales y a sus redadas policiales pertenecientes.
+Cloud computing es un nuevo modelo de prestación de servicios de negocio y tecnología, que permite incluso al usuario acceder a un catálogo de servicios estandarizados y responder con ellos a las necesidades de su negocio, de forma flexible y adaptativa, en caso de demandas no previsibles o de picos de trabajo, pagando únicamente por el consumo efectuado, o incluso gratuitamente en caso de proveedores que se financian mediante publicidad o de organizaciones sin ánimo de lucro.
+El cambio que ofrece la computación desde la nube es que permite aumentar el número de servicios basados en la red
+[Referencia](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
+
 
 # D
 
@@ -111,7 +121,7 @@ Se puede disponer de versiones en 63 idiomas, entre ellos: inglés, francés, ho
 El software hace uso extensivo de AJAX en el panel de administración, mientras que los bloques de módulos pueden ser fácilmente añadidos a la tienda con el fin proporcionar funcionalidad adicional; estos normalmente están proporcionados de forma gratuita por los desarrolladores independientes
 Prestashop es compatible con las pasarelas de pago más usuales. También se ofrecen módulos de pago adicionales en el mercado.
 
-[REFERNCIA:](https://es.wikipedia.org/wiki/PrestaShop)
+[REFERENCIA:](https://es.wikipedia.org/wiki/PrestaShop)
 
 # Q
 
