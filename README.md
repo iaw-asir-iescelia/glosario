@@ -5,6 +5,12 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 # A
+
+## Amazon S3
+
+Es un "servicio de almacenamiento simple" ofrecido por Amazon Web Services (AWS) que proporciona almacenamiento de objetos a través de una interfaz de servicio web.Simplemente, Amazon S3 proporciona una interfaz web para almacenar y recuperar datos de forma segura.
+
+[Referencia](https://en.wikipedia.org/wiki/Amazon_S3)
 ## Amazon lightsail
 
 Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados.
