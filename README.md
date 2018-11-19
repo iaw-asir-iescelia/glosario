@@ -5,6 +5,18 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 # A
+## Amazon lightsail
+
+Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados.
+
+Amazon Lightsail lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.Un cliente puede elegir entre cinco planes de Lightsail con las siguientes características:
+    • Memoria que va desde 512 MB hasta 8 GB;
+    • Procesadores con uno o dos núcleos;
+    • Una unidad de estado sólido con 20 a 80 GB de almacenamiento;
+    • Derechos de transferencia de datos de 1 a 5 TB;
+    • Precios desde $ 5 hasta $ 80 por mes.
+    
+[Referencia](https://searchaws.techtarget.com/definition/Amazon-Lightsail)
 
 ## Apache Server
 
