@@ -76,6 +76,16 @@ Se llama control de versiones a la gestión de los diversos cambios que se reali
 Aunque un sistema de control de versiones puede realizarse de forma manual, es muy aconsejable disponer de herramientas que faciliten esta gestión dando lugar a los llamados sistemas de control de versiones o VCS (del inglés Version Control System). Estos sistemas facilitan la administración de las distintas versiones de cada producto desarrollado, así como las posibles especializaciones realizadas (por ejemplo, para algún cliente específico). Ejemplos de este tipo de herramientas son entre otros: CVS, Subversion, SourceSafe, ClearCase, Darcs, Bazaar, Plastic SCM, Git, SCCS, Mercurial, Perforce, Fossil SCM, Team Foundation Server.
    
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
+## Cloud Computing
+ 
+Computación en la nube
+La computación en la nube (del inglés cloud computing),1 conocida también como servicios en la nube, informática en la nube, nube de cómputo, nube de conceptos o simplemente "la nube", es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es Internet.
+En este tipo de computación todo lo que puede ofrecer un sistema informático se ofrece como servicio, de modo que los usuarios puedan acceder a los servicios disponibles "en la nube de Internet" sin conocimientos en la gestión de los recursos que usan
+La computación en la nube son servidores desde Internet encargados de atender las peticiones en cualquier momento. Se puede tener acceso a su información o servicio, mediante una conexión a internet desde cualquier dispositivo móvil o fijo ubicado en cualquier lugar. Sirven a sus usuarios desde varios proveedores de alojamiento repartidos frecuentemente por todo el mundo. Esta medida reduce los costos, garantiza un mejor tiempo de actividad y que los sitios web sean invulnerables a los delincuentes informáticos, a los gobiernos locales y a sus redadas policiales pertenecientes.
+Cloud computing es un nuevo modelo de prestación de servicios de negocio y tecnología, que permite incluso al usuario acceder a un catálogo de servicios estandarizados y responder con ellos a las necesidades de su negocio, de forma flexible y adaptativa, en caso de demandas no previsibles o de picos de trabajo, pagando únicamente por el consumo efectuado, o incluso gratuitamente en caso de proveedores que se financian mediante publicidad o de organizaciones sin ánimo de lucro.
+El cambio que ofrece la computación desde la nube es que permite aumentar el número de servicios basados en la red
+[Referencia](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
+
 
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
 
@@ -144,6 +154,11 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 [Referencia](https://goaccess.io)
 
 # H
+## Http
+El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
+Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente (se le suele llamar "agente de usuario", en inglés user agent) realiza una petición enviando un mensaje, con cierto formato al servidor. El servidor (se le suele llamar un servidor web) le envía un mensaje de respuesta. Ejemplos de cliente son los navegadores web y las arañas web (también conocidas por su término inglés, webcrawlers
+[REFERENCIA:](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
+
 
 # I
 
@@ -279,6 +294,16 @@ Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para siste
 ## PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+## PRESTASHOP
+ PrestaShop es un sistema gestor de contenidos (CMS) libre y de código abierto, orientado principalmente a la creación de tiendas en línea de comercio electrónico (de ahí su denominación de Shop, tienda ).
+
+Está basado en PHP, MySQL y Smarty.
+PrestaShop está disponible bajo la licencia Open Software. El software está escrito en PHP y basado en el motor de plantillas Smarty. MySQL1 es el motor de base de datos predeterminado.
+Se puede disponer de versiones en 63 idiomas, entre ellos: inglés, francés, holandés, portugués, alemán, español, italiano, polaco y ruso.
+El software hace uso extensivo de AJAX en el panel de administración, mientras que los bloques de módulos pueden ser fácilmente añadidos a la tienda con el fin proporcionar funcionalidad adicional; estos normalmente están proporcionados de forma gratuita por los desarrolladores independientes
+Prestashop es compatible con las pasarelas de pago más usuales. También se ofrecen módulos de pago adicionales en el mercado.
+
+[REFERENCIA:](https://es.wikipedia.org/wiki/PrestaShop)
 
 [Referencia](https://es.wikipedia.org/wiki/PHP)
 
@@ -311,10 +336,31 @@ Snappy es un sistema de gestión de paquetes e implementación de software dise�
 [Referencia](https://es.wikipedia.org/wiki/Snappy)
 
 # T
+## Tomcat
+Apache Tomcat (también llamado Jakarta Tomcat o simplemente Tomcat) funciona como un contenedor de servlets desarrollado bajo el proyecto Jakarta en la Apache Software Foundation. Tomcat implementa las especificaciones de los servlets y de JavaServer Pages (JSP) de Oracle Corporation (aunque creado por Sun Microsystems).
+ Es desarrollado y actualizado por miembros de la Apache Software Foundation y voluntarios independientes. Los usuarios disponen de libre acceso a su código fuente y a su forma binaria en los términos establecidos en la Apache Software License. Las primeras distribuciones de Tomcat fueron las versiones 3.0.x. A partir de la versión 4.0, Jakarta Tomcat utiliza el contenedor de servlets Catalina.
+Las versiones más recientes son las 9.x, que implementan las especificaciones de Servlet 4.0 y de JSP 2.3
+Tomcat es un contenedor web con soporte de servlets y JSPs. Tomcat no es un servidor de aplicaciones, como JBoss o JOnAS. Incluye el compilador Jasper, que compila JSPs convirtiéndolas en servlets. El motor de servlets de Tomcat a menudo se presenta en combinación con el servidor web Apache.
+Tomcat puede funcionar como servidor web por sí mismo. En sus inicios existió la percepción de que el uso de Tomcat de forma autónoma era sólo recomendable para entornos de desarrollo y entornos con requisitos mínimos de velocidad y gestión de transacciones. Hoy en día ya no existe esa percepción y Tomcat es usado como servidor web autónomo en entornos con alto nivel de tráfico y alta disponibilidad.
+Dado que Tomcat fue escrito en Java, funciona en cualquier sistema operativo que disponga de la máquina virtual Java
+
+[Referencia](https://es.wikipedia.org/wiki/Tomcat)
 
 # U
 
 # V
+
+## Vagrantfile
+
+Son archivos de configuración, con una sintaxis sencilla, apta para dummies.
+Los archivos de configuración Vagrantfile generan una box (máquina virtual) que puede ser compartida a través de repositorios (a lo Maven, Node, Bower, etc.)
+Hay repositorios públicos de Vagrant boxes.
+
+[Referencia](https://www.vagrantup.com/docs/vagrantfile/).
+
+## Vue.js
+
+VueJS se autodenomina como un framework progresivo. Cuando encaramos un desarrollo con VueJS, podemos indicar qué partes del framework queremos incluir. VueJS está modularizado en diferentes librerías separadas que permiten ir añadiendo funcionalidad en el momento que las vayamos necesitando.
 
 ## Vagrant
 
