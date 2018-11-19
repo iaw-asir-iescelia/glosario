@@ -86,6 +86,10 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 
 # O
 
+## OPCache
+
+Proporciona una ejecución más rápida de PHP a través del almacenamiento en caché de opcode y la optimización. Mejora el rendimiento de PHP al almacenar el bytecode del script precompilado en la memoria compartida. Esto elimina las etapas de leer el código del disco y compilarlo en el acceso futuro. Además, aplica algunos patrones de optimización de código de bytes que hacen que la ejecución del código sea más rápida.
+
 # P
 
 # Q
