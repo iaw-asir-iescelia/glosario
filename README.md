@@ -14,6 +14,15 @@ El servidor HTTP Apache es un servidor web HTTP de código abierto, para platafo
 
 # C
 
+## Continious Delivery
+
+Continious delivery:
+Permite ayudar en la reducción del costo, tiempo, y riesgo de la liberación de versiones a través de la liberación de versiones más incrementales a aplicaciones en producción. 
+Está compuesta de 3 etapas:
+* Automatización de la compilación e integración continua
+* Automatización de pruebas
+* Automatización de implementación
+
 ## Control de Versiones
 
 Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
@@ -83,7 +92,15 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 
 # R
 
+## Rsync
+
+Es una aplicación libre para sistemas de tipo Unix y Microsoft Windows que ofrece transmisión eficiente de datos incrementales. Permite sincronizar archivos y directorios entre dos máquinas de una red o entre dos ubicaciones en una misma máquina, minimizando el volumen de datos transferidos. 
+
 # S
+
+## Serverless
+
+Es un modelo de ejecución de computación en la nube en el que el proveedor de la nube actúa como servidor, administrando dinámicamente la asignación de recursos de la máquina. El nombre "computación sin servidor" se usa porque las decisiones de administración de servidores y planificación de capacidad están completamente ocultas para el desarrollador u operador. 
 
 # T
 
