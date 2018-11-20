@@ -158,6 +158,11 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 
 [Referencia](https://goaccess.io)
 
+## General Data Protection Regulation (GDPR)
+Es el reglamento relativo a la protección de las personas físicas para el tratamiento de datos personales y la libre circulación de estos datos. Entró en vigor el 25 de mayo de 2016 y fue de aplicación el 25 de mayo de 2018. Las empresas, las organizaciones, los organismos y las Instituciones dispondran de dos años para ir adaptándose a su cumplimiento. Es una normativa a nivel europeo, por lo que cualquier empresa europea o aquellas empresas que tengan negocios en la Unión Europea que manejen información personal de cualquier tipo deberán acogerse. Las multas por el no cumplimiento del RGPD pueden llegar a los 20 millones de euros.
+
+[Referencia](https://gdpr-wp.com/knowledge-base/)
+
 # H
 
 ## Http
