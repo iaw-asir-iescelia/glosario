@@ -163,6 +163,11 @@ Es el reglamento relativo a la protección de las personas físicas para el trat
 
 [Referencia](https://gdpr-wp.com/knowledge-base/)
 
+## Google Cloud Platform
+Cloud Platform es un conjunto de aplicaciones y soluciones en la nube que Google ha desarrollado para posibilitar la productividad, la innovación y el crecimiento empresarial ya que permite revolucionar la forma en que crea, implementa y administra aplicaciones web y móviles, a partir las capacidades de escalabilidad, seguridad y big data.
+
+[Referencia](https://cloud.google.com/why-google-cloud/)
+
 # H
 
 ## Http
@@ -392,6 +397,13 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
 
 # W
+
+## W3 Total Cache
+
+W3 Total Cache mejora la experiencia al usuario del sitio ya que mejora el rendimiento del servidor, almacena en caché todos los aspectos del sitio, reduze los tiempos de descarga y proporciona una integración transparente de la red de entrega de contenido.
+Es el único entorno de trabajo de optimización de rendimiento web, cuenta con mas de 1 millon de instalaciones activas.
+
+[Referencia](https://es.wordpress.org/plugins/w3-total-cache/#description)
 
 # X
 
