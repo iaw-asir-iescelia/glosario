@@ -311,6 +311,13 @@ Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para siste
 
 [Referencia](https://es.wikipedia.org/wiki/Network_File_System)
 
+## Ngrok
+
+Es una herramienta que nos permite crear túneles seguros hacia un servidor local es decir podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local.
+Cuando ejecutamos Ngrok con el comando ``ngrok http 80``, veremos que este nos asigna un dominio aleatorio similar a ``http://cb04410f.ngrok.io.`` Cuando accedemos a ese dominio a través del navegador, es como si estuviésemos accediendo al servidor en localhost, porque Ngrok se encarga de redirigir el tráfico a través del túnel. Con lo cual es mas seguro y mas rapido.
+
+[Referencia](https://ngrok.com/product)
+
 # O
 
 # P
