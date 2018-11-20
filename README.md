@@ -6,6 +6,23 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 # A
 
+## Amazon Cloudfront
+
+Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
+
+## Amazon Lightsail
+
+Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados.
+Amazon Lightsail lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.
+    
+[Referencia](https://searchaws.techtarget.com/definition/Amazon-Lightsail)
+
+## Amazon S3
+
+Es un "servicio de almacenamiento simple" ofrecido por Amazon Web Services (AWS) que proporciona almacenamiento de objetos a través de una interfaz de servicio web.Simplemente, Amazon S3 proporciona una interfaz web para almacenar y recuperar datos de forma segura.
+
+[Referencia](https://en.wikipedia.org/wiki/Amazon_S3)
+
 ## Angular
 
 Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA (*Single-Page Application*). Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento.
@@ -24,12 +41,6 @@ El servidor HTTP Apache es un servidor web HTTP de código abierto, para platafo
 
 [Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
 
-## AWStats
-
-AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
-
-[Referencia](https://es.wikipedia.org/wiki/Awstats)
-
 ## APT (*Advanced Packaging Tool*)
 
 Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux. No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
@@ -42,16 +53,25 @@ Plataforma segura de servicios en la nube que ofrece potencia de cómputo, almac
 
 [Referencia](https://aws.amazon.com/es/what-is-aws/)
 
-## Amazon cloudfront
+## AWStats
 
-Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
+AWStats es una herramienta open source de informes de análisis web, apta para analizar datos de servicios de Internet como un servidor web, streaming, mail y FTP. AWstats analiza los archivos de log del servidor, y basándose en ellos produce informes HTML. Los datos son presentados visualmente en informes de tablas y gráficos de barra. Pueden crearse informes estáticos mediante una interfaz de línea de comando, y se pueden obtener informes on-demand a través de un navegador web.
+
+[Referencia](https://es.wikipedia.org/wiki/Awstats)
 
 # B
 
+## Bitnami
+
+Bitnami es una plataforma que nos permite montar y configurar fácilmente todo tipo de aplicaciones web y servidores de manera similar a como funciona Docker o los instaladores automáticos que nos ofrecen los distintos hosting, pero mucho más completo y fácil de utilizar. Dentro de esta plataforma hay más de 130 servidores y aplicaciones web listas para implementar en cualquier servidor, tanto local como remotos, gracias a que está integrado con las principales nubes del mercado, como AWS, Google, Oracle o Azure.
+
+[Referencia](https://bitnami.com/)
+
 # C
 
-### CMS
-**Content Management Sistem** o CMS que en español quiere decir Sistema de gestion de contenido o **Sistema Gestor de Contenidos** es un programa el cual permite crear, administrar y gestionar un sitio Web además del propio CMS. Como norma general los mayores CMSs tienen soporte para la mayoria de los servicios que se usan hoy día en Internet como Correo, JavaScript, PHP, CSS y muchos más servicios. Los CMSs más famosos son [Wordpress](https://es.wordpress.org/), [Moodle](https://moodle.org/?lang=es) o [Prestashop](https://www.prestashop.com/es) entre otros muchos.
+### CMS (*Content Management System*) 
+
+*Content Management System* o CMS que en español quiere decir Sistema de gestion de contenido o **Sistema Gestor de Contenidos** es un programa el cual permite crear, administrar y gestionar un sitio Web además del propio CMS. Como norma general los mayores CMSs tienen soporte para la mayoria de los servicios que se usan hoy día en Internet como Correo, JavaScript, PHP, CSS y muchos más servicios. Los CMSs más famosos son [Wordpress](https://es.wordpress.org/), [Moodle](https://moodle.org/?lang=es) o [Prestashop](https://www.prestashop.com/es) entre otros muchos.
 
 * [Referencia1](https://www.webempresa.com/blog/que-es-cms-los-mejores-gestores-de-contenido.html)
 * [Referencia2](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos)
@@ -78,6 +98,13 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
+
+## Cloud Computing
+ 
+La computación en la nube, conocida también como servicios en la nube, es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es Internet.
+En este tipo de computación todo lo que puede ofrecer un sistema informático se ofrece como servicio, de modo que los usuarios puedan acceder a los servicios disponibles "en la nube de Internet" sin conocimientos en la gestión de los recursos que usan.
+
+[Referencia](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
 
 ## Contenedor
 
@@ -145,6 +172,13 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 
 # H
 
+## HTTP
+
+El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
+Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente (se le suele llamar "agente de usuario", en inglés user agent) realiza una petición enviando un mensaje, con cierto formato al servidor. El servidor (se le suele llamar un servidor web) le envía un mensaje de respuesta. Ejemplos de cliente son los navegadores web y las arañas web (también conocidas por su término inglés, webcrawlers
+
+[Referencia](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
+
 # I
 
 # J
@@ -155,7 +189,7 @@ Es un formato de texto ligero para el intercambio de datos. JSON es un subconjun
 
 [Referencia](https://es.wikipedia.org/wiki/JSON)
 
-  ## Joomla
+## Joomla
 
 Joomla es un sistema de gestión de contenidos o CMS que en inglés significa Content Management System que permite desarrollar sitios web dinámicos e interactivos.
 
@@ -190,10 +224,7 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 
 ## Markdown
 
-Markdown nació como herramienta de conversión de texto plano a HTML.
-Esta herramienta fue creada en 2004 por John Gruber y se distribuye de manera gratuita.
-Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
-Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
+Markdown nació como herramienta de conversión de texto plano a HTML. Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
 
 [Referencia](https://markdown.es/)
 
@@ -233,11 +264,16 @@ Moodle es una herramienta de gestión de aprendizaje (LMS), o más concretamente
 
 ## Magento
 
-Magento es una plataforma de comercio en línea, de código liberado (opensource), con el que se pueden llevar a cabo todo tipo de proyectos relacionados con la venta en Internet.
+Magento es una plataforma de comercio en línea, *open source*, con el que se pueden llevar a cabo todo tipo de proyectos relacionados con la venta en Internet.
 Magento permite la construcción de un sitio totalmente a medida y tener control absoluto sobre las funcionalidades del canal de venta. Gracias a su concepción de sistema modular, es altamente flexible y escalable. Su filosofía de código liberado cuenta con el apoyo de una comunidad muy activa y extensa de desarrolladores.
-Por estas dos características y la inteligencia con la que está desarrollado su núcleo se ha convertido en el software en línea de comercio electrónico más popular y usado en todo el mundo.
 
 [Referencia](https://magento.com/products)
+
+## Microsoft Azure
+
+Microsoft Azure, antes conocido como Windows Azure, es la plataforma de computación en nube pública de Microsoft. Proporciona una gama de servicios en la nube, incluidos los de computación, analítica, almacenamiento y redes. Los usuarios pueden elegir entre estos servicios para desarrollar y escalar nuevas aplicaciones, o ejecutar aplicaciones existentes, en la nube pública.
+
+[Referencia](https://azure.microsoft.com/es-es/overview/what-is-azure/)
 
 ## Memcached
 
@@ -276,11 +312,19 @@ Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para siste
 # O
 
 # P
+
 ## PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 [Referencia](https://es.wikipedia.org/wiki/PHP)
+
+## Prestashop
+
+PrestaShop es un sistema gestor de contenidos (CMS) libre y de código abierto, orientado principalmente a la creación de tiendas en línea de comercio electrónico (de ahí su denominación de Shop, tienda ).
+Está disponible bajo la licencia Open Software. El software está escrito en PHP y basado en el motor de plantillas Smarty. Utiliza MySQL como sistema gestor de bases de datos.
+
+[Referencia](https://es.wikipedia.org/wiki/PrestaShop)
 
 ## Puppet
 
@@ -318,9 +362,28 @@ Snappy es un sistema de gestión de paquetes e implementación de software dise�
 
 # T
 
+## Tomcat
+
+Apache Tomcat funciona como un contenedor de servlets desarrollado bajo el proyecto Jakarta en la Apache Software Foundation. Tomcat implementa las especificaciones de los servlets y de JavaServer Pages (JSP) de Oracle Corporation.
+Tomcat es un contenedor web con soporte de servlets y JSPs. Tomcat no es un servidor de aplicaciones como JBoss. Incluye el compilador Jasper, que compila JSPs convirtiéndolas en servlets. 
+Tomcat puede funcionar como servidor web por sí mismo. Dado que Tomcat fue escrito en Java, funciona en cualquier sistema operativo que disponga de la máquina virtual Java.
+
+[Referencia](https://es.wikipedia.org/wiki/Tomcat)
+
 # U
 
 # V
+
+## Vagrantfile
+
+Son archivos de configuración, con una sintaxis sencilla para definir máquinas virtuales.
+Los archivos de configuración Vagrantfile generan una box (máquina virtual) que puede ser compartida a través de repositorios (a lo Maven, Node, Bower, etc.)
+
+[Referencia](https://www.vagrantup.com/docs/vagrantfile/).
+
+## Vue.js
+
+VueJS se autodenomina como un framework progresivo. Cuando encaramos un desarrollo con VueJS, podemos indicar qué partes del framework queremos incluir. VueJS está modularizado en diferentes librerías separadas que permiten ir añadiendo funcionalidad en el momento que las vayamos necesitando.
 
 ## Vagrant
 
