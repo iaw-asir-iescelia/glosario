@@ -48,6 +48,11 @@ Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) qu
 
 # B
 
+## Bitnami
+Bitnami es una plataforma que nos permite montar y configurar fácilmente todo tipo de aplicaciones web y servidores de manera similar a como funciona Docker o los instaladores automáticos que nos ofrecen los distintos hosting, pero mucho más completo y fácil de utilizar. Dentro de esta plataforma hay más de 130 servidores y aplicaciones web listas para implementar en cualquier servidor, tanto local como remotos, gracias a que está integrado con las principales nubes del mercado, como AWS, Google, Oracle o Azure.
+
+[Referencia](https://bitnami.com/)
+
 # C
 
 ### CMS
@@ -154,11 +159,13 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 [Referencia](https://goaccess.io)
 
 # H
+
 ## Http
+
 El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
 Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente (se le suele llamar "agente de usuario", en inglés user agent) realiza una petición enviando un mensaje, con cierto formato al servidor. El servidor (se le suele llamar un servidor web) le envía un mensaje de respuesta. Ejemplos de cliente son los navegadores web y las arañas web (también conocidas por su término inglés, webcrawlers
-[REFERENCIA:](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
 
+[Referencia](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
 
 # I
 
@@ -170,7 +177,7 @@ Es un formato de texto ligero para el intercambio de datos. JSON es un subconjun
 
 [Referencia](https://es.wikipedia.org/wiki/JSON)
 
-  ## Joomla
+## Joomla
 
 Joomla es un sistema de gestión de contenidos o CMS que en inglés significa Content Management System que permite desarrollar sitios web dinámicos e interactivos.
 
@@ -254,6 +261,12 @@ Por estas dos características y la inteligencia con la que está desarrollado s
 
 [Referencia](https://magento.com/products)
 
+## Microsoft Azure
+
+Microsoft Azure, antes conocido como Windows Azure, es la plataforma de computación en nube pública de Microsoft. Proporciona una gama de servicios en la nube, incluidos los de computación, analítica, almacenamiento y redes. Los usuarios pueden elegir entre estos servicios para desarrollar y escalar nuevas aplicaciones, o ejecutar aplicaciones existentes, en la nube pública.
+
+[Referencia](https://azure.microsoft.com/es-es/overview/what-is-azure/)
+
 ## Memcached
 
 Memcached es un sistema distribuido de propósito general para caché basado en memoria, diseñado por Danga Interactive y que es muy usado en la actualidad por múltiples sitios web.
@@ -291,21 +304,18 @@ Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para siste
 # O
 
 # P
+
 ## PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
-## PRESTASHOP
- PrestaShop es un sistema gestor de contenidos (CMS) libre y de código abierto, orientado principalmente a la creación de tiendas en línea de comercio electrónico (de ahí su denominación de Shop, tienda ).
-
-Está basado en PHP, MySQL y Smarty.
-PrestaShop está disponible bajo la licencia Open Software. El software está escrito en PHP y basado en el motor de plantillas Smarty. MySQL1 es el motor de base de datos predeterminado.
-Se puede disponer de versiones en 63 idiomas, entre ellos: inglés, francés, holandés, portugués, alemán, español, italiano, polaco y ruso.
-El software hace uso extensivo de AJAX en el panel de administración, mientras que los bloques de módulos pueden ser fácilmente añadidos a la tienda con el fin proporcionar funcionalidad adicional; estos normalmente están proporcionados de forma gratuita por los desarrolladores independientes
-Prestashop es compatible con las pasarelas de pago más usuales. También se ofrecen módulos de pago adicionales en el mercado.
-
-[REFERENCIA:](https://es.wikipedia.org/wiki/PrestaShop)
 
 [Referencia](https://es.wikipedia.org/wiki/PHP)
+
+## Prestashop
+PrestaShop es un sistema gestor de contenidos (CMS) libre y de código abierto, orientado principalmente a la creación de tiendas en línea de comercio electrónico (de ahí su denominación de Shop, tienda ).
+Está disponible bajo la licencia Open Software. El software está escrito en PHP y basado en el motor de plantillas Smarty. Utiliza MySQL como sistema gestor de bases de datos.
+
+[Referencia](https://es.wikipedia.org/wiki/PrestaShop)
 
 ## Puppet
 
