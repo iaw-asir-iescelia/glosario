@@ -257,6 +257,13 @@ Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para siste
 
 # O
 
+## OpenShift
+
+OpenShift es un producto de computación en la nube de plataforma como servicio de Red Hat. Los desarrolladores pueden usar Git para desplegar sus aplicaciones Web en los diferentes lenguajes de la plataforma. 
+OpenShift también soporta programas binarios que sean aplicaciones Web, con tal de que se puedan ejecutar en RHEL Linux. Esto permite el uso de lenguajes arbitrarios y frameworks.
+OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la escalabilidad de la aplicación como se necesite.
+[Referencia](https://es.wikipedia.org/wiki/OpenShift)
+
 # P
 ## PHP
 
