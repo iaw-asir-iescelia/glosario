@@ -99,6 +99,10 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 
 # E
 
+## Exploit
+
+Exploit es una palabra inglesa que significa explotar o aprovechar, y que en el ámbito de la informática es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, utilizada con el fin de aprovechar una vulnerabilidad de seguridad de un sistema de información para conseguir un comportamiento no deseado del mismo.
+
 # F
 
 ## Fail2ban
