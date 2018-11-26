@@ -138,6 +138,10 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 
 # E
 
+## Exploit
+
+Exploit es una palabra inglesa que significa explotar o aprovechar, y que en el ámbito de la informática es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, utilizada con el fin de aprovechar una vulnerabilidad de seguridad de un sistema de información para conseguir un comportamiento no deseado del mismo.
+
 # F
 
 ## Fail2ban
@@ -320,6 +324,13 @@ Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para siste
 [Referencia](https://es.wikipedia.org/wiki/Network_File_System)
 
 # O
+
+## OpenShift
+
+OpenShift es un producto de computación en la nube de plataforma como servicio de Red Hat. Los desarrolladores pueden usar Git para desplegar sus aplicaciones Web en los diferentes lenguajes de la plataforma. 
+OpenShift también soporta programas binarios que sean aplicaciones Web, con tal de que se puedan ejecutar en RHEL Linux. Esto permite el uso de lenguajes arbitrarios y frameworks.
+OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la escalabilidad de la aplicación como se necesite.
+[Referencia](https://es.wikipedia.org/wiki/OpenShift)
 
 # P
 
