@@ -412,6 +412,12 @@ Es el único entorno de trabajo de optimización de rendimiento web, cuenta con 
 
 [Referencia](https://es.wordpress.org/plugins/w3-total-cache/#description)
 
+## WPScan
+
+Es un escáner de vulnerabilidades de WordPress, que es capaz de detectar vulnerabilidades de seguridad común, así como la lista de todos los plugins utilizados por un alojamiento de sitios web de WordPress.
+
+[Referencia](https://tools.kali.org/web-applications/wpscan)
+
 # X
 
 # Y
