@@ -10,6 +10,10 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
 
+## Amazon Elastic Container Service
+
+Es un sistema de información que se utiliza para facilitar el intercambio eficiente de documentos y conocimientos entre equipos e individuos en una empresa. Las herramientas de ECS incluyen Internet, groupware, varias formas de software y hardware y redes internas y externas.
+
 # B
 
 # C
@@ -101,6 +105,10 @@ Proporciona una ejecución más rápida de PHP a través del almacenamiento en c
 Es una aplicación libre para sistemas de tipo Unix y Microsoft Windows que ofrece transmisión eficiente de datos incrementales. Permite sincronizar archivos y directorios entre dos máquinas de una red o entre dos ubicaciones en una misma máquina, minimizando el volumen de datos transferidos. 
 
 # S
+
+## Saas
+
+Es un modelo de distribución de software donde el soporte lógico y los datos que maneja se alojan en servidores de una compañía de tecnologías de información y comunicación (TIC), a los que se accede vía Internet desde un cliente. 
 
 ## Serverless
 
