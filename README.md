@@ -295,6 +295,12 @@ Memcached es un sistema distribuido de propósito general para caché basado en 
 
 [Referencia](https://es.wikipedia.org/wiki/Memcached)
 
+## Mysqldump
+
+Mysqldump realizar copias de seguridad (backup) de nuestras bases de datos. Se incluye dentro de las utilidades de MySQL, por lo que, esta disponible sin necesidad de instalarla, siempre y cuando estemos usando como servidor de base de datos MySQL o MariaDB. Puedes comprobar que tienes la herramienta instalada, mediante una consola de comandos, utilizando: `mysqldump` 
+
+[Referencia](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html)
+
 # N
 
 ## Node.js
@@ -322,6 +328,13 @@ Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simpl
 Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para sistemas de archivos distribuido en un entorno de red de computadoras de área local. Posibilita que distintos sistemas conectados a una misma red accedan a ficheros remotos como si se tratara de locales. 
 
 [Referencia](https://es.wikipedia.org/wiki/Network_File_System)
+
+## Ngrok
+
+Es una herramienta que nos permite crear túneles seguros hacia un servidor local es decir podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local.
+Cuando ejecutamos Ngrok con el comando ``ngrok http 80``, veremos que este nos asigna un dominio aleatorio similar a ``http://cb04410f.ngrok.io.`` Cuando accedemos a ese dominio a través del navegador, es como si estuviésemos accediendo al servidor en localhost, porque Ngrok se encarga de redirigir el tráfico a través del túnel. Con lo cual es mas seguro y mas rapido.
+
+[Referencia](https://ngrok.com/product)
 
 # O
 
@@ -428,6 +441,12 @@ W3 Total Cache mejora la experiencia al usuario del sitio ya que mejora el rendi
 Es el único entorno de trabajo de optimización de rendimiento web, cuenta con mas de 1 millon de instalaciones activas.
 
 [Referencia](https://es.wordpress.org/plugins/w3-total-cache/#description)
+
+## WPScan
+
+Es un escáner de vulnerabilidades de WordPress, que es capaz de detectar vulnerabilidades de seguridad común, así como la lista de todos los plugins utilizados por un alojamiento de sitios web de WordPress.
+
+[Referencia](https://tools.kali.org/web-applications/wpscan)
 
 # X
 
