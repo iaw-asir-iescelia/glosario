@@ -283,6 +283,12 @@ Memcached es un sistema distribuido de propósito general para caché basado en 
 
 [Referencia](https://es.wikipedia.org/wiki/Memcached)
 
+## Mysqldump
+
+Mysqldump realizar copias de seguridad (backup) de nuestras bases de datos. Se incluye dentro de las utilidades de MySQL, por lo que, esta disponible sin necesidad de instalarla, siempre y cuando estemos usando como servidor de base de datos MySQL o MariaDB. Puedes comprobar que tienes la herramienta instalada, mediante una consola de comandos, utilizando: `mysqldump` 
+
+[Referencia](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html)
+
 # N
 
 ## Node.js
