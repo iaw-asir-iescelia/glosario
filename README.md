@@ -366,6 +366,16 @@ Puppet es una herramienta diseñada para administrar la configuración de sistem
 
 [Referencia](https://es.wikipedia.org/wiki/Puppet_(software))
 
+
+## Plesk
+Plesk es un panel de control de hosting que actúa como intermediario entre los usuarios y los servicios del sistema
+[Referencia](https://docs.plesk.com/es-ES/12.5/administrator-guide/informaci%C3%B3n-sobre-plesk.70559/)
+
+## Plataforma como Servicio (PaaS - Platform as a Service)
+
+categoría de servicios cloud que proporciona una plataforma y un entorno que permiten a los desarrolladores crear aplicaciones y servicios que funcionen a través de internet.
+[Referencia](https://www.interoute.es/what-paas)
+
 # Q
 
 # R
