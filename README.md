@@ -14,6 +14,14 @@ El servidor HTTP Apache es un servidor web HTTP de código abierto, para platafo
 
 # C
 
+## Chef
+
+Chef es tanto el nombre de una compañía como el nombre de una herramienta de administración de configuración escrita en Ruby y Erlang. Utiliza un lenguaje puro de Ruby, específico del dominio para escribir "recetas" de configuración del sistema.
+
+## CPanel
+
+cPanel es un panel de control para administrar servidores de alojamiento web que proveen herramientas de automatización y una interfaz gráfica basada en páginas web
+
 ## Control de Versiones
 
 Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
@@ -26,13 +34,21 @@ El control de versiones se realiza principalmente en la industria informática p
 
 ## DevOps
 
-Metodología de desarrollo de software que se centra en la comunicación, colaboración e integración entre desarrolladores de software y los profesionales de sistemas en las tecnologías de la información (IT)
+Metodología de desarrollo de software que se centra en la comunicación, colaboración e integración entre desarrolladores de software y los profesionales de sistemas en las tecnologías de la información (IT).
+
+## Django
+
+Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como Modelo–vista–template.
 
 ## Docker
 
 Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres para permitir que "contenedores" independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales. 
 
 # E
+
+## ExpressJS
+
+Express.js, o simplemente Express, es un marco de aplicación web para Node.js, lanzado como software libre y de código abierto bajo la Licencia MIT. Está diseñado para construir aplicaciones web y APIs.
 
 # F
 
@@ -50,6 +66,10 @@ Gitlab es un servicio web de control de versiones y desarrollo de software colab
 # H
 
 # I
+
+## Infraestructura como Servicio (IaaS)
+
+Infraestructura como servicio (IaaS) se refiere a los servicios on-line que proporcionan un alto-nivel de APIs utilizadas para indirecciónar detalles a bajo nivel de infraestructura como recursos de informática física, ubicación, dato partitioning, scaling, seguridad, copia de seguridad etc.
 
 # J
 
@@ -92,7 +112,15 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 
 # R
 
+## Ruby
+
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995.
+
 # S
+
+## SPOF
+
+Un single point of failure o SPOF ("punto único de fallo") es un componente de un sistema que tras un fallo en su funcionamiento ocasiona un fallo global en el sistema completo, dejándolo inoperante. Un SPOF puede ser un componente de hardware, software o eléctrico.
 
 # T
 
@@ -101,6 +129,10 @@ Es software libre y de código abierto, licenciado bajo la Licencia BSD simplifi
 # V
 
 # W
+
+## Wordfence 
+
+Versión gratuita de unos de los plugins de seguridad más descargados y mejor valorados del repositorio de WordPress.
 
 # X
 
