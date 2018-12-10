@@ -9,10 +9,13 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 ## Adminer 
 
 Usado principalmente para hacer backups de las bases de datos ha desaparecido del repositorio de WordPress.Te evita acceder a phpmyadmin.
+[Referencia](https://www.anunciosgoogle.net/adminer-ha-desaparecido-del-repositorio-wordpress/)
 
 ## Amazon EC2
 
 proporciona capacidad de computación escalable en la nube de Amazon Web Services (AWS). El uso de Amazon EC2 elimina la necesidad de invertir inicialmente en hardware, de manera que puede desarrollar e implementar aplicaciones en menos tiempo.
+
+[Referencia](https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/concepts.html)
 
 ## Amazon Cloudfront
 
@@ -166,6 +169,12 @@ Flask es un framework minimalista escrito en Python que permite crear aplicacion
 
 # G
 
+# Github
+
+plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora. El software que opera GitHub fue escrito en Ruby on Rails.
+
+[Referencia](https://es.wikipedia.org/wiki/GitHub)
+
 ## Git
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
@@ -190,6 +199,12 @@ Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta
 # I
 
 # J
+
+# Jekyll
+
+Es un generador simple para sitios web estáticos con capacidades de blog; adecuado para sitios web personales, de proyecto o de organizaciones. Fue escrito en lenguaje de programación Ruby.
+
+[Referencia](https://es.wikipedia.org/wiki/Jekyll_(computaci%C3%B3n))
 
 ## JSON
   
@@ -294,6 +309,7 @@ Memcached es un sistema distribuido de propósito general para caché basado en 
 ## Ngrok
 
 Con Ngrok podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local. porque Ngrok se encarga de redirigir el tráfico a través del túnel.
+[Referencia](https://www.vozidea.com/ngrok-crea-tuneles-seguros-a-tu-servidor-local)
 
 ## Node.js
 
@@ -364,7 +380,7 @@ Es una biblioteca Javascript de código abierto diseñada para crear interfaces 
 
 Optimización de motores de búsqueda,son el conjunto de acciones y técnicas que se emplean para mejorar el posicionamiento
 
-
+[Referencia](https://definicion.de/seo/)
 ## Snappy
  
 Snappy es un sistema de gestión de paquetes e implementación de software diseñado y creado originalmente por Canonical para el sistema operativo de teléfonos Ubuntu. Los paquetes, llamados 'snaps' y la herramienta para usarlos 'snapd', funcionan en un rango de distribuciones de Linux.
@@ -411,9 +427,12 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
 
 # W
+
 ## WooCommerce 
 
 Es un plugin gratuito de eCommerce que te permite vender cualquier cosa. Creado para que se integre sin problemas con WordPress, WooCommerce es la solución eCommerce favorita en todo el mundo y ofrece un control total tanto a propietarios de tienda como a desarrolladores.
+
+[Referencia](https://es.wordpress.org/plugins/woocommerce/)
 
 # X
 
