@@ -6,6 +6,14 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 # A
 
+## Adminer 
+
+Usado principalmente para hacer backups de las bases de datos ha desaparecido del repositorio de WordPress.Te evita acceder a phpmyadmin.
+
+## Amazon EC2
+
+proporciona capacidad de computación escalable en la nube de Amazon Web Services (AWS). El uso de Amazon EC2 elimina la necesidad de invertir inicialmente en hardware, de manera que puede desarrollar e implementar aplicaciones en menos tiempo.
+
 ## Amazon Cloudfront
 
 Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
@@ -283,6 +291,10 @@ Memcached es un sistema distribuido de propósito general para caché basado en 
 
 # N
 
+## Ngrok
+
+Con Ngrok podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local. porque Ngrok se encarga de redirigir el tráfico a través del túnel.
+
 ## Node.js
 
 Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
@@ -348,6 +360,11 @@ Es una biblioteca Javascript de código abierto diseñada para crear interfaces 
 
 # S
 
+## SEO
+
+Optimización de motores de búsqueda,son el conjunto de acciones y técnicas que se emplean para mejorar el posicionamiento
+
+
 ## Snappy
  
 Snappy es un sistema de gestión de paquetes e implementación de software diseñado y creado originalmente por Canonical para el sistema operativo de teléfonos Ubuntu. Los paquetes, llamados 'snaps' y la herramienta para usarlos 'snapd', funcionan en un rango de distribuciones de Linux.
@@ -394,6 +411,9 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
 
 # W
+## WooCommerce 
+
+Es un plugin gratuito de eCommerce que te permite vender cualquier cosa. Creado para que se integre sin problemas con WordPress, WooCommerce es la solución eCommerce favorita en todo el mundo y ofrece un control total tanto a propietarios de tienda como a desarrolladores.
 
 # X
 
