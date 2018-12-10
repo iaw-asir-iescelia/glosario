@@ -10,6 +10,12 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
 
+## Amazon Elastic Container Service
+
+Es un sistema de información que se utiliza para facilitar el intercambio eficiente de documentos y conocimientos entre equipos e individuos en una empresa. Las herramientas de ECS incluyen Internet, groupware, varias formas de software y hardware y redes internas y externas.
+
+[Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
+
 ## Amazon Lightsail
 
 Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados.
@@ -39,8 +45,6 @@ Ansible es una plataforma de software libre para configurar y administrar comput
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
 
-[Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
-
 ## APT (*Advanced Packaging Tool*)
 
 Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux. No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
@@ -68,6 +72,14 @@ Bitnami es una plataforma que nos permite montar y configurar fácilmente todo t
 [Referencia](https://bitnami.com/)
 
 # C
+
+## Continious Delivery
+
+Permite ayudar en la reducción del costo, tiempo, y riesgo de la liberación de versiones a través de la liberación de versiones más incrementales a aplicaciones en producción. 
+Está compuesta de 3 etapas:
+* Automatización de la compilación e integración continua
+* Automatización de pruebas
+* Automatización de implementación
 
 ### CMS (*Content Management System*) 
 
@@ -338,11 +350,16 @@ Cuando ejecutamos Ngrok con el comando ``ngrok http 80``, veremos que este nos a
 
 # O
 
+## OPCache
+
+Proporciona una ejecución más rápida de PHP a través del almacenamiento en caché de opcode y la optimización. Mejora el rendimiento de PHP al almacenar el bytecode del script precompilado en la memoria compartida. Esto elimina las etapas de leer el código del disco y compilarlo en el acceso futuro. Además, aplica algunos patrones de optimización de código de bytes que hacen que la ejecución del código sea más rápida.
+
 ## OpenShift
 
 OpenShift es un producto de computación en la nube de plataforma como servicio de Red Hat. Los desarrolladores pueden usar Git para desplegar sus aplicaciones Web en los diferentes lenguajes de la plataforma. 
 OpenShift también soporta programas binarios que sean aplicaciones Web, con tal de que se puedan ejecutar en RHEL Linux. Esto permite el uso de lenguajes arbitrarios y frameworks.
 OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la escalabilidad de la aplicación como se necesite.
+
 [Referencia](https://es.wikipedia.org/wiki/OpenShift)
 
 # P
@@ -368,6 +385,7 @@ Puppet es una herramienta diseñada para administrar la configuración de sistem
 
 
 ## Plesk
+
 Plesk es un panel de control de hosting que actúa como intermediario entre los usuarios y los servicios del sistema
 [Referencia](https://docs.plesk.com/es-ES/12.5/administrator-guide/informaci%C3%B3n-sobre-plesk.70559/)
 
@@ -379,6 +397,10 @@ categoría de servicios cloud que proporciona una plataforma y un entorno que pe
 # Q
 
 # R
+
+## `rsync`
+
+Es una aplicación libre para sistemas de tipo Unix y Microsoft Windows que ofrece transmisión eficiente de datos incrementales. Permite sincronizar archivos y directorios entre dos máquinas de una red o entre dos ubicaciones en una misma máquina, minimizando el volumen de datos transferidos. 
 
 ## Repositorio
 
@@ -397,6 +419,14 @@ Una REST API es una interfaz de programa de aplicación (API) que utiliza solici
 [Referencia](https://searchmicroservices.techtarget.com/definition/RESTful-API)
 
 # S
+
+## Saas
+
+Es un modelo de distribución de software donde el soporte lógico y los datos que maneja se alojan en servidores de una compañía de tecnologías de información y comunicación (TIC), a los que se accede vía Internet desde un cliente. 
+
+## Serverless
+
+Es un modelo de ejecución de computación en la nube en el que el proveedor de la nube actúa como servidor, administrando dinámicamente la asignación de recursos de la máquina. El nombre "computación sin servidor" se usa porque las decisiones de administración de servidores y planificación de capacidad están completamente ocultas para el desarrollador u operador. 
 
 ## Snappy
  
