@@ -198,6 +198,11 @@ Cloud Platform es un conjunto de aplicaciones y soluciones en la nube que Google
 
 # H
 
+## Heroku
+
+Es una de las primeras plataformas de computación en la nube con el objetivo de soportar solamente el lenguaje de programación Ruby, pero posteriormente se ha extendido el soporte a Java, Node.js, Scala, Clojure y Python y PHP. 
+La base del sistema operativo es Debian o, en la nueva plataforma, el sistema basado en Debian Ubuntu.
+
 ## HTTP
 
 El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
@@ -247,6 +252,10 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 * **PHP** hace referencia al lenguaje de programación utilizado en el servidor.
 
 # M
+
+## MariaDB
+
+Es un sistema de gestion de bases de datos derivado de MYSQL con licencia GPL (General Public License).  Tiene una alta compatibilidad con MySQL ya que posee las mismas órdenes, interfaces, API y bibliotecas, siendo su objetivo poder cambiar un servidor por otro directamente.
 
 ## Markdown
 
@@ -364,6 +373,11 @@ OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la
 
 # P
 
+## PhpMyAdmin
+
+Permite la administración de MySQL a través de páginas web, utilizando Internet. 
+Actualmente puede crear y eliminar Bases de Datos, crear, eliminar y alterar tablas, borrar, editar y añadir campos, ejecutar cualquier sentencia SQL, administrar claves en campos, administrar privilegios, exportar datos en varios formatos.
+
 ## PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
@@ -474,6 +488,11 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
 
 # W
+
+## Wordpress
+
+Es un sistema de gestión de contenidos o CMS (por sus siglas en inglés, Content Management System) enfocado a la creación de cualquier tipo de página web.
+Está desarrollado en el lenguaje PHP para entornos que ejecuten MySQL y Apache, bajo licencia GPL y es un software libre.
 
 ## W3 Total Cache
 
