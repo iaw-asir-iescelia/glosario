@@ -21,6 +21,12 @@ proporciona capacidad de computación escalable en la nube de Amazon Web Service
 
 Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
 
+## Amazon ElastiCache
+
+Amazon ElastiCache es un servicio web que facilita la implementación, el funcionamiento y la ampliación de un almacén de datos en memoria o caché en la nube. El servicio mejora el rendimiento de las aplicaciones web al permitirle recuperar información de almacenes de datos rápidos y administrados en la memoria, en lugar de depender completamente de bases de datos basadas en disco más lentas.
+
+[Referencia](https://www.amazonaws.cn/en/elasticache/)
+
 ## Amazon Elastic Container Service
 
 Es un sistema de información que se utiliza para facilitar el intercambio eficiente de documentos y conocimientos entre equipos e individuos en una empresa. Las herramientas de ECS incluyen Internet, groupware, varias formas de software y hardware y redes internas y externas.
@@ -33,6 +39,18 @@ Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de ener
 Amazon Lightsail lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.
     
 [Referencia](https://searchaws.techtarget.com/definition/Amazon-Lightsail)
+
+## Amazon Machine Image (AMI)
+
+Una imagen de máquina de Amazon (AMI) proporciona la información necesaria para iniciar una instancia, que es un servidor virtual en la nube. Sirve como la unidad básica de implementación para servicios entregados usando EC2.
+
+Un AMI incluye lo siguiente:
+
+- Una plantilla para el volumen raíz de la instancia (por ejemplo, un sistema operativo, un servidor de aplicaciones y aplicaciones)
+- Permisos de inicio que controlan qué cuentas de AWS pueden usar la AMI para iniciar instancias
+- Una asignación de dispositivo de bloque que especifica los volúmenes para adjuntar a la instancia cuando se inicia
+
+[Referencia](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/AMIs.html)
 
 ## Amazon S3
 
@@ -121,6 +139,16 @@ Aunque un sistema de control de versiones puede realizarse de forma manual, es m
 El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
 
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
+
+## Contenedores como Servicio (CaaS - Containers as a Service)
+
+Un contenedor como servicio es un tipo de microservicio en el cual para ejecutar un servicio no tenemos que levantar una máquina con un S.O. y todo lo que eso conlleva en gasto de recursos para ejecutar el servicio. Mientras que con CaaS solo necesitamos levantar una pequeñísima parte del núcleo de una máquina y levantar el servicio que lo ejecutará esa pequeña parte del núcleo.
+
+## Continuous Integration (CI)
+
+La integración continua (CI) es una práctica de desarrollo que requiere que los desarrolladores integren el código en un repositorio compartido varias veces al día. Cada registro se verifica luego mediante una compilación automatizada, lo que permite a los equipos detectar problemas en forma temprana. Al integrarse regularmente, puede detectar errores rápidamente y localizarlos más fácilmente.
+
+[Referencia](https://www.thoughtworks.com/continuous-integration)
 
 ## Cloud Computing
  
@@ -469,6 +497,12 @@ Snappy es un sistema de gestión de paquetes e implementación de software dise�
 [Referencia](https://es.wikipedia.org/wiki/Snappy)
 
 # T
+
+## Terraform
+
+Terraform es un software de infraestructura como código (infrastructure as code) desarrollado por HashiCorp. Permite a los usuarios definir y configurar la infraestructura de un centro de datos en un lenguaje de alto nivel, generando un plan de ejecución para desplegar la infraestructura en OpenStack, por ejemplo, u otros proveedores de servicio tales como AWS, IBM Cloud (antiguamente Bluemix), Google Cloud Platform, Linode, Microsoft Azure, Oracle Cloud Infrastructure o VMware vSphere. La infraestructura se define utilizando la sintaxis de configuración de HashiCorp denominada HashiCorp Configuration Language (HCL) o, en su defecto, el formato JSON.
+
+[Referencia](https://es.wikipedia.org/wiki/Terraform_(software))
 
 ## Tomcat
 
