@@ -6,6 +6,40 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 # A
 
+## Adminer 
+
+Usado principalmente para hacer backups de las bases de datos ha desaparecido del repositorio de WordPress.Te evita acceder a phpmyadmin.
+[Referencia](https://www.anunciosgoogle.net/adminer-ha-desaparecido-del-repositorio-wordpress/)
+
+## Amazon EC2
+
+proporciona capacidad de computación escalable en la nube de Amazon Web Services (AWS). El uso de Amazon EC2 elimina la necesidad de invertir inicialmente en hardware, de manera que puede desarrollar e implementar aplicaciones en menos tiempo.
+
+[Referencia](https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/concepts.html)
+
+## Amazon Cloudfront
+
+Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
+
+## Amazon Elastic Container Service
+
+Es un sistema de información que se utiliza para facilitar el intercambio eficiente de documentos y conocimientos entre equipos e individuos en una empresa. Las herramientas de ECS incluyen Internet, groupware, varias formas de software y hardware y redes internas y externas.
+
+[Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
+
+## Amazon Lightsail
+
+Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados.
+Amazon Lightsail lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.
+    
+[Referencia](https://searchaws.techtarget.com/definition/Amazon-Lightsail)
+
+## Amazon S3
+
+Es un "servicio de almacenamiento simple" ofrecido por Amazon Web Services (AWS) que proporciona almacenamiento de objetos a través de una interfaz de servicio web.Simplemente, Amazon S3 proporciona una interfaz web para almacenar y recuperar datos de forma segura.
+
+[Referencia](https://en.wikipedia.org/wiki/Amazon_S3)
+
 ## Angular
 
 Angular es un framework de desarrollo para JavaScript creado por Google. La finalidad de Angular es facilitarnos el desarrollo de aplicaciones web SPA (*Single-Page Application*). Una aplicación web SPA creada con Angular es una web de una sola página, en la cual la navegación entre secciones y páginas de la aplicación como la carga de datos, se realiza de manera dinámica, casi instantánea sin refrescar la página en ningún momento.
@@ -22,7 +56,17 @@ Ansible es una plataforma de software libre para configurar y administrar comput
 
 El servidor HTTP Apache es un servidor web HTTP de código abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 y la noción de sitio virtual según la normativa RFC 2616.
 
-[Referencia](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache)
+## APT (*Advanced Packaging Tool*)
+
+Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux. No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
+
+[Referencias](https://es.wikipedia.org/wiki/Advanced_Packaging_Tool)
+
+## AWS (Amazon Web Services)
+
+Plataforma segura de servicios en la nube que ofrece potencia de cómputo, almacenamiento de bases de datos, entrega de contenido y otras funcionalidades para ayudar a las empresas a ajustar su escala y crecer.
+
+[Referencia](https://aws.amazon.com/es/what-is-aws/)
 
 ## AWStats
 
@@ -30,18 +74,27 @@ AWStats es una herramienta open source de informes de análisis web, apta para a
 
 [Referencia](https://es.wikipedia.org/wiki/Awstats)
 
-## APT (*Advanced Packaging Tool*)
-
-Es un sistema de gestión de paquetes creado por el proyecto Debian. APT simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux. No existe un programa apt en sí mismo, sino que APT es una biblioteca de funciones C++ que se emplea por varios programas de línea de comandos para distribuir paquetes. En especial apt-get.
-
-[Referencias](https://es.wikipedia.org/wiki/Advanced_Packaging_Tool)
-
 # B
+
+## Bitnami
+
+Bitnami es una plataforma que nos permite montar y configurar fácilmente todo tipo de aplicaciones web y servidores de manera similar a como funciona Docker o los instaladores automáticos que nos ofrecen los distintos hosting, pero mucho más completo y fácil de utilizar. Dentro de esta plataforma hay más de 130 servidores y aplicaciones web listas para implementar en cualquier servidor, tanto local como remotos, gracias a que está integrado con las principales nubes del mercado, como AWS, Google, Oracle o Azure.
+
+[Referencia](https://bitnami.com/)
 
 # C
 
-### CMS
-**Content Management Sistem** o CMS que en español quiere decir Sistema de gestion de contenido o **Sistema Gestor de Contenidos** es un programa el cual permite crear, administrar y gestionar un sitio Web además del propio CMS. Como norma general los mayores CMSs tienen soporte para la mayoria de los servicios que se usan hoy día en Internet como Correo, JavaScript, PHP, CSS y muchos más servicios. Los CMSs más famosos son [Wordpress](https://es.wordpress.org/), [Moodle](https://moodle.org/?lang=es) o [Prestashop](https://www.prestashop.com/es) entre otros muchos.
+## Continious Delivery
+
+Permite ayudar en la reducción del costo, tiempo, y riesgo de la liberación de versiones a través de la liberación de versiones más incrementales a aplicaciones en producción. 
+Está compuesta de 3 etapas:
+* Automatización de la compilación e integración continua
+* Automatización de pruebas
+* Automatización de implementación
+
+### CMS (*Content Management System*) 
+
+*Content Management System* o CMS que en español quiere decir Sistema de gestion de contenido o **Sistema Gestor de Contenidos** es un programa el cual permite crear, administrar y gestionar un sitio Web además del propio CMS. Como norma general los mayores CMSs tienen soporte para la mayoria de los servicios que se usan hoy día en Internet como Correo, JavaScript, PHP, CSS y muchos más servicios. Los CMSs más famosos son [Wordpress](https://es.wordpress.org/), [Moodle](https://moodle.org/?lang=es) o [Prestashop](https://www.prestashop.com/es) entre otros muchos.
 
 * [Referencia1](https://www.webempresa.com/blog/que-es-cms-los-mejores-gestores-de-contenido.html)
 * [Referencia2](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos)
@@ -69,6 +122,19 @@ El control de versiones se realiza principalmente en la industria informática p
 
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
 
+## Cloud Computing
+ 
+La computación en la nube, conocida también como servicios en la nube, es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es Internet.
+En este tipo de computación todo lo que puede ofrecer un sistema informático se ofrece como servicio, de modo que los usuarios puedan acceder a los servicios disponibles "en la nube de Internet" sin conocimientos en la gestión de los recursos que usan.
+
+[Referencia](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube)
+
+## Contenedor
+
+Los contenedores de aplicaciones son entornos ligeros de tiempo de ejecución que proporcionan a las aplicaciones los archivos, las variables y las bibliotecas que necesitan para ejecutarse, maximizando de esta forma su portabilidad.
+
+[Referencia](https://www.hpe.com/es/es/what-is/containers.html)
+
 # D
 
 ## Docker
@@ -95,6 +161,10 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 
 # E
 
+## Exploit
+
+Exploit es una palabra inglesa que significa explotar o aprovechar, y que en el ámbito de la informática es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, utilizada con el fin de aprovechar una vulnerabilidad de seguridad de un sistema de información para conseguir un comportamiento no deseado del mismo.
+
 # F
 
 ## Fail2ban
@@ -109,7 +179,17 @@ Es una utilidad para despliegue de software, administración de paquetes, y virt
 
 [Referencia](https://es.wikipedia.org/wiki/Flatpak)
 
+## Flask
+
+Flask es un framework minimalista escrito en Python que permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código. Está basado en la especificación WSGI de Werkzeug y el motor de templates Jinja2 y tiene una licencia BSD.
+
 # G
+
+# Github
+
+plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora. El software que opera GitHub fue escrito en Ruby on Rails.
+
+[Referencia](https://es.wikipedia.org/wiki/GitHub)
 
 ## Git
 
@@ -123,17 +203,46 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 
 [Referencia](https://goaccess.io)
 
+## General Data Protection Regulation (GDPR)
+Es el reglamento relativo a la protección de las personas físicas para el tratamiento de datos personales y la libre circulación de estos datos. Entró en vigor el 25 de mayo de 2016 y fue de aplicación el 25 de mayo de 2018. Las empresas, las organizaciones, los organismos y las Instituciones dispondran de dos años para ir adaptándose a su cumplimiento. Es una normativa a nivel europeo, por lo que cualquier empresa europea o aquellas empresas que tengan negocios en la Unión Europea que manejen información personal de cualquier tipo deberán acogerse. Las multas por el no cumplimiento del RGPD pueden llegar a los 20 millones de euros.
+
+[Referencia](https://gdpr-wp.com/knowledge-base/)
+
+## Google Cloud Platform
+Cloud Platform es un conjunto de aplicaciones y soluciones en la nube que Google ha desarrollado para posibilitar la productividad, la innovación y el crecimiento empresarial ya que permite revolucionar la forma en que crea, implementa y administra aplicaciones web y móviles, a partir las capacidades de escalabilidad, seguridad y big data.
+
+[Referencia](https://cloud.google.com/why-google-cloud/)
+
 # H
+
+## HTTP
+
+El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
+Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente (se le suele llamar "agente de usuario", en inglés user agent) realiza una petición enviando un mensaje, con cierto formato al servidor. El servidor (se le suele llamar un servidor web) le envía un mensaje de respuesta. Ejemplos de cliente son los navegadores web y las arañas web (también conocidas por su término inglés, webcrawlers
+
+[Referencia](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
 
 # I
 
 # J
+
+# Jekyll
+
+Es un generador simple para sitios web estáticos con capacidades de blog; adecuado para sitios web personales, de proyecto o de organizaciones. Fue escrito en lenguaje de programación Ruby.
+
+[Referencia](https://es.wikipedia.org/wiki/Jekyll_(computaci%C3%B3n))
 
 ## JSON
   
 Es un formato de texto ligero para el intercambio de datos. JSON es un subconjunto de la notación literal de objetos de JavaScript aunque hoy, debido a su amplia adopción como alternativa a XML, se considera un formato de lenguaje independiente.
 
 [Referencia](https://es.wikipedia.org/wiki/JSON)
+
+## Joomla
+
+Joomla es un sistema de gestión de contenidos o CMS que en inglés significa Content Management System que permite desarrollar sitios web dinámicos e interactivos.
+
+ [Referencia](https://iiemd.com/joomla/que-es-joomla)
 
 # K
 
@@ -164,10 +273,7 @@ LEMP es el acrónimo usado para describir un sistema de infraestructura de inter
 
 ## Markdown
 
-Markdown nació como herramienta de conversión de texto plano a HTML.
-Esta herramienta fue creada en 2004 por John Gruber y se distribuye de manera gratuita.
-Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
-Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.
+Markdown nació como herramienta de conversión de texto plano a HTML. Markdown se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
 
 [Referencia](https://markdown.es/)
 
@@ -207,13 +313,35 @@ Moodle es una herramienta de gestión de aprendizaje (LMS), o más concretamente
 
 ## Magento
 
-Magento es una plataforma de comercio en línea, de código liberado (opensource), con el que se pueden llevar a cabo todo tipo de proyectos relacionados con la venta en Internet.
+Magento es una plataforma de comercio en línea, *open source*, con el que se pueden llevar a cabo todo tipo de proyectos relacionados con la venta en Internet.
 Magento permite la construcción de un sitio totalmente a medida y tener control absoluto sobre las funcionalidades del canal de venta. Gracias a su concepción de sistema modular, es altamente flexible y escalable. Su filosofía de código liberado cuenta con el apoyo de una comunidad muy activa y extensa de desarrolladores.
-Por estas dos características y la inteligencia con la que está desarrollado su núcleo se ha convertido en el software en línea de comercio electrónico más popular y usado en todo el mundo.
 
 [Referencia](https://magento.com/products)
 
+## Microsoft Azure
+
+Microsoft Azure, antes conocido como Windows Azure, es la plataforma de computación en nube pública de Microsoft. Proporciona una gama de servicios en la nube, incluidos los de computación, analítica, almacenamiento y redes. Los usuarios pueden elegir entre estos servicios para desarrollar y escalar nuevas aplicaciones, o ejecutar aplicaciones existentes, en la nube pública.
+
+[Referencia](https://azure.microsoft.com/es-es/overview/what-is-azure/)
+
+## Memcached
+
+Memcached es un sistema distribuido de propósito general para caché basado en memoria, diseñado por Danga Interactive y que es muy usado en la actualidad por múltiples sitios web.
+
+[Referencia](https://es.wikipedia.org/wiki/Memcached)
+
+## Mysqldump
+
+Mysqldump realizar copias de seguridad (backup) de nuestras bases de datos. Se incluye dentro de las utilidades de MySQL, por lo que, esta disponible sin necesidad de instalarla, siempre y cuando estemos usando como servidor de base de datos MySQL o MariaDB. Puedes comprobar que tienes la herramienta instalada, mediante una consola de comandos, utilizando: `mysqldump` 
+
+[Referencia](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html)
+
 # N
+
+## Ngrok
+
+Con Ngrok podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local. porque Ngrok se encarga de redirigir el tráfico a través del túnel.
+[Referencia](https://www.vozidea.com/ngrok-crea-tuneles-seguros-a-tu-servidor-local)
 
 ## Node.js
 
@@ -235,14 +363,47 @@ Es una utilidad para configurar fácilmente las redes en un sistema Linux. Simpl
 
 [Referencia](https://netplan.io/)
 
+## NFS (Network File System)
+
+Protocolo de nivel de aplicación, según el Modelo OSI. Es utilizado para sistemas de archivos distribuido en un entorno de red de computadoras de área local. Posibilita que distintos sistemas conectados a una misma red accedan a ficheros remotos como si se tratara de locales. 
+
+[Referencia](https://es.wikipedia.org/wiki/Network_File_System)
+
+## Ngrok
+
+Es una herramienta que nos permite crear túneles seguros hacia un servidor local es decir podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local.
+Cuando ejecutamos Ngrok con el comando ``ngrok http 80``, veremos que este nos asigna un dominio aleatorio similar a ``http://cb04410f.ngrok.io.`` Cuando accedemos a ese dominio a través del navegador, es como si estuviésemos accediendo al servidor en localhost, porque Ngrok se encarga de redirigir el tráfico a través del túnel. Con lo cual es mas seguro y mas rapido.
+
+[Referencia](https://ngrok.com/product)
+
 # O
 
+## OPCache
+
+Proporciona una ejecución más rápida de PHP a través del almacenamiento en caché de opcode y la optimización. Mejora el rendimiento de PHP al almacenar el bytecode del script precompilado en la memoria compartida. Esto elimina las etapas de leer el código del disco y compilarlo en el acceso futuro. Además, aplica algunos patrones de optimización de código de bytes que hacen que la ejecución del código sea más rápida.
+
+## OpenShift
+
+OpenShift es un producto de computación en la nube de plataforma como servicio de Red Hat. Los desarrolladores pueden usar Git para desplegar sus aplicaciones Web en los diferentes lenguajes de la plataforma. 
+OpenShift también soporta programas binarios que sean aplicaciones Web, con tal de que se puedan ejecutar en RHEL Linux. Esto permite el uso de lenguajes arbitrarios y frameworks.
+OpenShift se encarga de mantener los servicios subyacentes a la aplicación y la escalabilidad de la aplicación como se necesite.
+
+[Referencia](https://es.wikipedia.org/wiki/OpenShift)
+
 # P
+
 ## PHP
 
 PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
 [Referencia](https://es.wikipedia.org/wiki/PHP)
+
+## Prestashop
+
+PrestaShop es un sistema gestor de contenidos (CMS) libre y de código abierto, orientado principalmente a la creación de tiendas en línea de comercio electrónico (de ahí su denominación de Shop, tienda ).
+Está disponible bajo la licencia Open Software. El software está escrito en PHP y basado en el motor de plantillas Smarty. Utiliza MySQL como sistema gestor de bases de datos.
+
+[Referencia](https://es.wikipedia.org/wiki/PrestaShop)
 
 ## Puppet
 
@@ -250,9 +411,24 @@ Puppet es una herramienta diseñada para administrar la configuración de sistem
 
 [Referencia](https://es.wikipedia.org/wiki/Puppet_(software))
 
+
+## Plesk
+
+Plesk es un panel de control de hosting que actúa como intermediario entre los usuarios y los servicios del sistema
+[Referencia](https://docs.plesk.com/es-ES/12.5/administrator-guide/informaci%C3%B3n-sobre-plesk.70559/)
+
+## Plataforma como Servicio (PaaS - Platform as a Service)
+
+categoría de servicios cloud que proporciona una plataforma y un entorno que permiten a los desarrolladores crear aplicaciones y servicios que funcionen a través de internet.
+[Referencia](https://www.interoute.es/what-paas)
+
 # Q
 
 # R
+
+## `rsync`
+
+Es una aplicación libre para sistemas de tipo Unix y Microsoft Windows que ofrece transmisión eficiente de datos incrementales. Permite sincronizar archivos y directorios entre dos máquinas de una red o entre dos ubicaciones en una misma máquina, minimizando el volumen de datos transferidos. 
 
 ## Repositorio
 
@@ -264,7 +440,27 @@ Es una biblioteca Javascript de código abierto diseñada para crear interfaces 
 
 [Referencia](https://es.wikipedia.org/wiki/React)
 
+## REST API
+
+Una REST API es una interfaz de programa de aplicación (API) que utiliza solicitudes HTTP para obtener datos GET, PUT, POST y DELETE.
+
+[Referencia](https://searchmicroservices.techtarget.com/definition/RESTful-API)
+
 # S
+
+## Saas
+
+Es un modelo de distribución de software donde el soporte lógico y los datos que maneja se alojan en servidores de una compañía de tecnologías de información y comunicación (TIC), a los que se accede vía Internet desde un cliente. 
+
+## SEO
+
+Optimización de motores de búsqueda,son el conjunto de acciones y técnicas que se emplean para mejorar el posicionamiento
+
+[Referencia](https://definicion.de/seo/)
+
+## Serverless
+
+Es un modelo de ejecución de computación en la nube en el que el proveedor de la nube actúa como servidor, administrando dinámicamente la asignación de recursos de la máquina. El nombre "computación sin servidor" se usa porque las decisiones de administración de servidores y planificación de capacidad están completamente ocultas para el desarrollador u operador. 
 
 ## Snappy
  
@@ -274,9 +470,28 @@ Snappy es un sistema de gestión de paquetes e implementación de software dise�
 
 # T
 
+## Tomcat
+
+Apache Tomcat funciona como un contenedor de servlets desarrollado bajo el proyecto Jakarta en la Apache Software Foundation. Tomcat implementa las especificaciones de los servlets y de JavaServer Pages (JSP) de Oracle Corporation.
+Tomcat es un contenedor web con soporte de servlets y JSPs. Tomcat no es un servidor de aplicaciones como JBoss. Incluye el compilador Jasper, que compila JSPs convirtiéndolas en servlets. 
+Tomcat puede funcionar como servidor web por sí mismo. Dado que Tomcat fue escrito en Java, funciona en cualquier sistema operativo que disponga de la máquina virtual Java.
+
+[Referencia](https://es.wikipedia.org/wiki/Tomcat)
+
 # U
 
 # V
+
+## Vagrantfile
+
+Son archivos de configuración, con una sintaxis sencilla para definir máquinas virtuales.
+Los archivos de configuración Vagrantfile generan una box (máquina virtual) que puede ser compartida a través de repositorios (a lo Maven, Node, Bower, etc.)
+
+[Referencia](https://www.vagrantup.com/docs/vagrantfile/).
+
+## Vue.js
+
+VueJS se autodenomina como un framework progresivo. Cuando encaramos un desarrollo con VueJS, podemos indicar qué partes del framework queremos incluir. VueJS está modularizado en diferentes librerías separadas que permiten ir añadiendo funcionalidad en el momento que las vayamos necesitando.
 
 ## Vagrant
 
@@ -288,7 +503,30 @@ Vagrant es un software de máquinas virtuales que permite desplegar máquinas vi
 
 La función principal de Vagrantfile es describir el tipo de máquina requerida para un proyecto y cómo configurar y aprovisionar estas máquinas. Vagrantfile está comprometido con el control de versiones. Esto permite que otros desarrolladores involucrados en el proyecto verifiquen el código, se ejecuten de forma errática y sigan su camino. Los archivos Vagrant son portátiles en todas las plataformas compatibles con Vagrant.
 
+## VPS
+
+Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
+
 # W
+
+## WooCommerce 
+
+Es un plugin gratuito de eCommerce que te permite vender cualquier cosa. Creado para que se integre sin problemas con WordPress, WooCommerce es la solución eCommerce favorita en todo el mundo y ofrece un control total tanto a propietarios de tienda como a desarrolladores.
+
+[Referencia](https://es.wordpress.org/plugins/woocommerce/)
+
+## W3 Total Cache
+
+W3 Total Cache mejora la experiencia al usuario del sitio ya que mejora el rendimiento del servidor, almacena en caché todos los aspectos del sitio, reduze los tiempos de descarga y proporciona una integración transparente de la red de entrega de contenido.
+Es el único entorno de trabajo de optimización de rendimiento web, cuenta con mas de 1 millon de instalaciones activas.
+
+[Referencia](https://es.wordpress.org/plugins/w3-total-cache/#description)
+
+## WPScan
+
+Es un escáner de vulnerabilidades de WordPress, que es capaz de detectar vulnerabilidades de seguridad común, así como la lista de todos los plugins utilizados por un alojamiento de sitios web de WordPress.
+
+[Referencia](https://tools.kali.org/web-applications/wpscan)
 
 # X
 
