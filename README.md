@@ -102,6 +102,18 @@ Bitnami es una plataforma que nos permite montar y configurar fácilmente todo t
 
 # C
 
+## Chef
+
+Chef es tanto el nombre de una compañía como el nombre de una herramienta de administración de configuración escrita en Ruby y Erlang. Utiliza un lenguaje puro de Ruby, específico del dominio para escribir "recetas" de configuración del sistema.
+
+[Referencia](http://blog.linkeit.com/que-es-software-chef)ç
+
+## CPanel
+
+cPanel es un panel de control para administrar servidores de alojamiento web que proveen herramientas de automatización y una interfaz gráfica basada en páginas web.
+
+[Referencia](https://es.wikipedia.org/wiki/CPanel)
+
 ## Continious Delivery
 
 Permite ayudar en la reducción del costo, tiempo, y riesgo de la liberación de versiones a través de la liberación de versiones más incrementales a aplicaciones en producción. 
@@ -132,12 +144,6 @@ En este archivo tenemos toda la información ordenada para que se instalen todos
 
 ## Control de Versiones
 
-Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
-  
-Aunque un sistema de control de versiones puede realizarse de forma manual, es muy aconsejable disponer de herramientas que faciliten esta gestión dando lugar a los llamados sistemas de control de versiones o VCS (del inglés Version Control System). Estos sistemas facilitan la administración de las distintas versiones de cada producto desarrollado, así como las posibles especializaciones realizadas (por ejemplo, para algún cliente específico). Ejemplos de este tipo de herramientas son entre otros: CVS, Subversion, SourceSafe, ClearCase, Darcs, Bazaar, Plastic SCM, Git, SCCS, Mercurial, Perforce, Fossil SCM, Team Foundation Server.
-   
-El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
-
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
 
 ## Contenedores como Servicio (CaaS - Containers as a Service)
@@ -165,6 +171,17 @@ Los contenedores de aplicaciones son entornos ligeros de tiempo de ejecución qu
 
 # D
 
+## DevOps
+
+Metodología de desarrollo de software que se centra en la comunicación, colaboración e integración entre desarrolladores de software y los profesionales de sistemas en las tecnologías de la información (IT).
+
+## Django
+
+Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como Modelo–vista–template.
+
+[Referencia](https://es.wikipedia.org/wiki/Django_(framework))
+
+
 ## Docker
 
 Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres para permitir que "contenedores" independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales. 
@@ -188,6 +205,12 @@ DevOps es una metodología de trabajo basada en el desarrollo de código que usa
 Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas de Unix) y es un paquete que contiene utilidades para los desarrolladores. 
 
 # E
+
+## ExpressJS
+
+Express.js, o simplemente Express, es un marco de aplicación web para Node.js, lanzado como software libre y de código abierto bajo la Licencia MIT. Está diseñado para construir aplicaciones web y APIs.
+
+[Referencia](https://en.wikipedia.org/wiki/Express.js)
 
 ## Exploit
 
@@ -225,6 +248,12 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 
 [Referencia](https://es.wikipedia.org/wiki/Git)
 
+## GitLab
+
+Gitlab es un servicio web de control de versiones y desarrollo de software colaborativo basado en Git. Además de gestor de repositorios, el servicio ofrece también alojamiento de wikis y un sistema de seguimiento de errores, todo ello publicado bajo una Licencia de código abierto.
+
+[Referencia](https://es.wikipedia.org/wiki/GitLab)
+
 ## GoAccess
 
 Herramienta de código abierto la cual sirve para analizar en tiempo real **logs** de los diferentes servicios del sistema operativo donde instalemos la herramienta. Gracias a esta herramienta podemos tener en todo momento minitorizados nuestros servicios y podemos tener en todo momento el equipo controlado frente a cualquier problema o amenaza que pueda ocurrir.
@@ -232,11 +261,13 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 [Referencia](https://goaccess.io)
 
 ## General Data Protection Regulation (GDPR)
+
 Es el reglamento relativo a la protección de las personas físicas para el tratamiento de datos personales y la libre circulación de estos datos. Entró en vigor el 25 de mayo de 2016 y fue de aplicación el 25 de mayo de 2018. Las empresas, las organizaciones, los organismos y las Instituciones dispondran de dos años para ir adaptándose a su cumplimiento. Es una normativa a nivel europeo, por lo que cualquier empresa europea o aquellas empresas que tengan negocios en la Unión Europea que manejen información personal de cualquier tipo deberán acogerse. Las multas por el no cumplimiento del RGPD pueden llegar a los 20 millones de euros.
 
 [Referencia](https://gdpr-wp.com/knowledge-base/)
 
 ## Google Cloud Platform
+
 Cloud Platform es un conjunto de aplicaciones y soluciones en la nube que Google ha desarrollado para posibilitar la productividad, la innovación y el crecimiento empresarial ya que permite revolucionar la forma en que crea, implementa y administra aplicaciones web y móviles, a partir las capacidades de escalabilidad, seguridad y big data.
 
 [Referencia](https://cloud.google.com/why-google-cloud/)
@@ -251,6 +282,12 @@ Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta
 [Referencia](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
 
 # I
+
+## Infraestructura como Servicio (IaaS)
+
+Infraestructura como servicio (IaaS) se refiere a los servicios on-line que proporcionan un alto-nivel de APIs utilizadas para indirecciónar detalles a bajo nivel de infraestructura como recursos de informática física, ubicación, dato partitioning, scaling, seguridad, copia de seguridad etc.
+
+[Referencia](https://es.wikipedia.org/wiki/Infraestructura_como_servicio_(IaaS))
 
 # J
 
@@ -454,6 +491,20 @@ categoría de servicios cloud que proporciona una plataforma y un entorno que pe
 
 # R
 
+## Ruby
+
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995.
+
+[Referencia](https://es.wikipedia.org/wiki/Ruby)
+
+# S
+
+## SPOF
+
+Un single point of failure o SPOF ("punto único de fallo") es un componente de un sistema que tras un fallo en su funcionamiento ocasiona un fallo global en el sistema completo, dejándolo inoperante. Un SPOF puede ser un componente de hardware, software o eléctrico.
+
+[Referencia](https://es.wikipedia.org/wiki/Single_point_of_failure)
+
 ## `rsync`
 
 Es una aplicación libre para sistemas de tipo Unix y Microsoft Windows que ofrece transmisión eficiente de datos incrementales. Permite sincronizar archivos y directorios entre dos máquinas de una red o entre dos ubicaciones en una misma máquina, minimizando el volumen de datos transferidos. 
@@ -542,6 +593,12 @@ La función principal de Vagrantfile es describir el tipo de máquina requerida 
 Un servidor virtual privado (VPS, del inglés virtual private server) es un método de particionar un servidor físico en varios servidores de tal forma que todo funcione como si se estuviese ejecutando en una única máquina. Cada servidor virtual es capaz de funcionar bajo su propio sistema operativo y además cada servidor puede ser reiniciado de forma independiente.
 
 # W
+
+## Wordfence 
+
+Versión gratuita de unos de los plugins de seguridad más descargados y mejor valorados del repositorio de WordPress.
+
+[Referencia](https://www.lifestylealcuadrado.com/wordfence-seguridad-wordpress/)
 
 ## WooCommerce 
 
