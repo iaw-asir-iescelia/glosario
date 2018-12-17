@@ -477,6 +477,7 @@ Puppet es una herramienta diseñada para administrar la configuración de sistem
 [Referencia](https://es.wikipedia.org/wiki/Puppet_(software))
 
 
+
 ## Plesk
 
 Plesk es un panel de control de hosting que actúa como intermediario entre los usuarios y los servicios del sistema
