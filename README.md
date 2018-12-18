@@ -6,9 +6,26 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 # A
 
+## Adminer 
+
+Usado principalmente para hacer backups de las bases de datos ha desaparecido del repositorio de WordPress.Te evita acceder a phpmyadmin.
+[Referencia](https://www.anunciosgoogle.net/adminer-ha-desaparecido-del-repositorio-wordpress/)
+
+## Amazon EC2
+
+proporciona capacidad de computación escalable en la nube de Amazon Web Services (AWS). El uso de Amazon EC2 elimina la necesidad de invertir inicialmente en hardware, de manera que puede desarrollar e implementar aplicaciones en menos tiempo.
+
+[Referencia](https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/concepts.html)
+
 ## Amazon Cloudfront
 
 Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
+
+## Amazon ElastiCache
+
+Amazon ElastiCache es un servicio web que facilita la implementación, el funcionamiento y la ampliación de un almacén de datos en memoria o caché en la nube. El servicio mejora el rendimiento de las aplicaciones web al permitirle recuperar información de almacenes de datos rápidos y administrados en la memoria, en lugar de depender completamente de bases de datos basadas en disco más lentas.
+
+[Referencia](https://www.amazonaws.cn/en/elasticache/)
 
 ## Amazon Elastic Container Service
 
@@ -22,6 +39,18 @@ Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de ener
 Amazon Lightsail lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.
     
 [Referencia](https://searchaws.techtarget.com/definition/Amazon-Lightsail)
+
+## Amazon Machine Image (AMI)
+
+Una imagen de máquina de Amazon (AMI) proporciona la información necesaria para iniciar una instancia, que es un servidor virtual en la nube. Sirve como la unidad básica de implementación para servicios entregados usando EC2.
+
+Un AMI incluye lo siguiente:
+
+- Una plantilla para el volumen raíz de la instancia (por ejemplo, un sistema operativo, un servidor de aplicaciones y aplicaciones)
+- Permisos de inicio que controlan qué cuentas de AWS pueden usar la AMI para iniciar instancias
+- Una asignación de dispositivo de bloque que especifica los volúmenes para adjuntar a la instancia cuando se inicia
+
+[Referencia](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/AMIs.html)
 
 ## Amazon S3
 
@@ -73,6 +102,18 @@ Bitnami es una plataforma que nos permite montar y configurar fácilmente todo t
 
 # C
 
+## Chef
+
+Chef es tanto el nombre de una compañía como el nombre de una herramienta de administración de configuración escrita en Ruby y Erlang. Utiliza un lenguaje puro de Ruby, específico del dominio para escribir "recetas" de configuración del sistema.
+
+[Referencia](http://blog.linkeit.com/que-es-software-chef)ç
+
+## CPanel
+
+cPanel es un panel de control para administrar servidores de alojamiento web que proveen herramientas de automatización y una interfaz gráfica basada en páginas web.
+
+[Referencia](https://es.wikipedia.org/wiki/CPanel)
+
 ## Continious Delivery
 
 Permite ayudar en la reducción del costo, tiempo, y riesgo de la liberación de versiones a través de la liberación de versiones más incrementales a aplicaciones en producción. 
@@ -103,13 +144,17 @@ En este archivo tenemos toda la información ordenada para que se instalen todos
 
 ## Control de Versiones
 
-Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
-  
-Aunque un sistema de control de versiones puede realizarse de forma manual, es muy aconsejable disponer de herramientas que faciliten esta gestión dando lugar a los llamados sistemas de control de versiones o VCS (del inglés Version Control System). Estos sistemas facilitan la administración de las distintas versiones de cada producto desarrollado, así como las posibles especializaciones realizadas (por ejemplo, para algún cliente específico). Ejemplos de este tipo de herramientas son entre otros: CVS, Subversion, SourceSafe, ClearCase, Darcs, Bazaar, Plastic SCM, Git, SCCS, Mercurial, Perforce, Fossil SCM, Team Foundation Server.
-   
-El control de versiones se realiza principalmente en la industria informática para controlar las distintas versiones del código fuente dando lugar a los sistemas de control de código fuente o SCM (siglas del inglés Source Code Management). Sin embargo, los mismos conceptos son aplicables a otros ámbitos como documentos, imágenes, sitios web, etc.
-
 [Referencia](https://es.wikipedia.org/wiki/Control_de_versiones)
+
+## Contenedores como Servicio (CaaS - Containers as a Service)
+
+Un contenedor como servicio es un tipo de microservicio en el cual para ejecutar un servicio no tenemos que levantar una máquina con un S.O. y todo lo que eso conlleva en gasto de recursos para ejecutar el servicio. Mientras que con CaaS solo necesitamos levantar una pequeñísima parte del núcleo de una máquina y levantar el servicio que lo ejecutará esa pequeña parte del núcleo.
+
+## Continuous Integration (CI)
+
+La integración continua (CI) es una práctica de desarrollo que requiere que los desarrolladores integren el código en un repositorio compartido varias veces al día. Cada registro se verifica luego mediante una compilación automatizada, lo que permite a los equipos detectar problemas en forma temprana. Al integrarse regularmente, puede detectar errores rápidamente y localizarlos más fácilmente.
+
+[Referencia](https://www.thoughtworks.com/continuous-integration)
 
 ## Cloud Computing
  
@@ -125,6 +170,17 @@ Los contenedores de aplicaciones son entornos ligeros de tiempo de ejecución qu
 [Referencia](https://www.hpe.com/es/es/what-is/containers.html)
 
 # D
+
+## DevOps
+
+Metodología de desarrollo de software que se centra en la comunicación, colaboración e integración entre desarrolladores de software y los profesionales de sistemas en las tecnologías de la información (IT).
+
+## Django
+
+Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como Modelo–vista–template.
+
+[Referencia](https://es.wikipedia.org/wiki/Django_(framework))
+
 
 ## Docker
 
@@ -150,6 +206,12 @@ Es una herramineta de debconf(es una utilidad para realizar tareas en sistemas d
 
 # E
 
+## ExpressJS
+
+Express.js, o simplemente Express, es un marco de aplicación web para Node.js, lanzado como software libre y de código abierto bajo la Licencia MIT. Está diseñado para construir aplicaciones web y APIs.
+
+[Referencia](https://en.wikipedia.org/wiki/Express.js)
+
 ## Exploit
 
 Exploit es una palabra inglesa que significa explotar o aprovechar, y que en el ámbito de la informática es un fragmento de software, fragmento de datos o secuencia de comandos o acciones, utilizada con el fin de aprovechar una vulnerabilidad de seguridad de un sistema de información para conseguir un comportamiento no deseado del mismo.
@@ -174,11 +236,23 @@ Flask es un framework minimalista escrito en Python que permite crear aplicacion
 
 # G
 
+# Github
+
+plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora. El software que opera GitHub fue escrito en Ruby on Rails.
+
+[Referencia](https://es.wikipedia.org/wiki/GitHub)
+
 ## Git
 
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
 
 [Referencia](https://es.wikipedia.org/wiki/Git)
+
+## GitLab
+
+Gitlab es un servicio web de control de versiones y desarrollo de software colaborativo basado en Git. Además de gestor de repositorios, el servicio ofrece también alojamiento de wikis y un sistema de seguimiento de errores, todo ello publicado bajo una Licencia de código abierto.
+
+[Referencia](https://es.wikipedia.org/wiki/GitLab)
 
 ## GoAccess
 
@@ -187,11 +261,13 @@ Herramienta de código abierto la cual sirve para analizar en tiempo real **logs
 [Referencia](https://goaccess.io)
 
 ## General Data Protection Regulation (GDPR)
+
 Es el reglamento relativo a la protección de las personas físicas para el tratamiento de datos personales y la libre circulación de estos datos. Entró en vigor el 25 de mayo de 2016 y fue de aplicación el 25 de mayo de 2018. Las empresas, las organizaciones, los organismos y las Instituciones dispondran de dos años para ir adaptándose a su cumplimiento. Es una normativa a nivel europeo, por lo que cualquier empresa europea o aquellas empresas que tengan negocios en la Unión Europea que manejen información personal de cualquier tipo deberán acogerse. Las multas por el no cumplimiento del RGPD pueden llegar a los 20 millones de euros.
 
 [Referencia](https://gdpr-wp.com/knowledge-base/)
 
 ## Google Cloud Platform
+
 Cloud Platform es un conjunto de aplicaciones y soluciones en la nube que Google ha desarrollado para posibilitar la productividad, la innovación y el crecimiento empresarial ya que permite revolucionar la forma en que crea, implementa y administra aplicaciones web y móviles, a partir las capacidades de escalabilidad, seguridad y big data.
 
 [Referencia](https://cloud.google.com/why-google-cloud/)
@@ -212,7 +288,19 @@ Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta
 
 # I
 
+## Infraestructura como Servicio (IaaS)
+
+Infraestructura como servicio (IaaS) se refiere a los servicios on-line que proporcionan un alto-nivel de APIs utilizadas para indirecciónar detalles a bajo nivel de infraestructura como recursos de informática física, ubicación, dato partitioning, scaling, seguridad, copia de seguridad etc.
+
+[Referencia](https://es.wikipedia.org/wiki/Infraestructura_como_servicio_(IaaS))
+
 # J
+
+# Jekyll
+
+Es un generador simple para sitios web estáticos con capacidades de blog; adecuado para sitios web personales, de proyecto o de organizaciones. Fue escrito en lenguaje de programación Ruby.
+
+[Referencia](https://es.wikipedia.org/wiki/Jekyll_(computaci%C3%B3n))
 
 ## JSON
   
@@ -324,6 +412,11 @@ Mysqldump realizar copias de seguridad (backup) de nuestras bases de datos. Se i
 
 # N
 
+## Ngrok
+
+Con Ngrok podemos crear un túnel accesible a través de un dominio que nos asigna la propia aplicación, para así acceder a un servidor local. porque Ngrok se encarga de redirigir el tráfico a través del túnel.
+[Referencia](https://www.vozidea.com/ngrok-crea-tuneles-seguros-a-tu-servidor-local)
+
 ## Node.js
 
 Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
@@ -398,6 +491,7 @@ Puppet es una herramienta diseñada para administrar la configuración de sistem
 [Referencia](https://es.wikipedia.org/wiki/Puppet_(software))
 
 
+
 ## Plesk
 
 Plesk es un panel de control de hosting que actúa como intermediario entre los usuarios y los servicios del sistema
@@ -411,6 +505,20 @@ categoría de servicios cloud que proporciona una plataforma y un entorno que pe
 # Q
 
 # R
+
+## Ruby
+
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995.
+
+[Referencia](https://es.wikipedia.org/wiki/Ruby)
+
+# S
+
+## SPOF
+
+Un single point of failure o SPOF ("punto único de fallo") es un componente de un sistema que tras un fallo en su funcionamiento ocasiona un fallo global en el sistema completo, dejándolo inoperante. Un SPOF puede ser un componente de hardware, software o eléctrico.
+
+[Referencia](https://es.wikipedia.org/wiki/Single_point_of_failure)
 
 ## `rsync`
 
@@ -438,6 +546,12 @@ Una REST API es una interfaz de programa de aplicación (API) que utiliza solici
 
 Es un modelo de distribución de software donde el soporte lógico y los datos que maneja se alojan en servidores de una compañía de tecnologías de información y comunicación (TIC), a los que se accede vía Internet desde un cliente. 
 
+## SEO
+
+Optimización de motores de búsqueda,son el conjunto de acciones y técnicas que se emplean para mejorar el posicionamiento
+
+[Referencia](https://definicion.de/seo/)
+
 ## Serverless
 
 Es un modelo de ejecución de computación en la nube en el que el proveedor de la nube actúa como servidor, administrando dinámicamente la asignación de recursos de la máquina. El nombre "computación sin servidor" se usa porque las decisiones de administración de servidores y planificación de capacidad están completamente ocultas para el desarrollador u operador. 
@@ -449,6 +563,12 @@ Snappy es un sistema de gestión de paquetes e implementación de software dise�
 [Referencia](https://es.wikipedia.org/wiki/Snappy)
 
 # T
+
+## Terraform
+
+Terraform es un software de infraestructura como código (infrastructure as code) desarrollado por HashiCorp. Permite a los usuarios definir y configurar la infraestructura de un centro de datos en un lenguaje de alto nivel, generando un plan de ejecución para desplegar la infraestructura en OpenStack, por ejemplo, u otros proveedores de servicio tales como AWS, IBM Cloud (antiguamente Bluemix), Google Cloud Platform, Linode, Microsoft Azure, Oracle Cloud Infrastructure o VMware vSphere. La infraestructura se define utilizando la sintaxis de configuración de HashiCorp denominada HashiCorp Configuration Language (HCL) o, en su defecto, el formato JSON.
+
+[Referencia](https://es.wikipedia.org/wiki/Terraform_(software))
 
 ## Tomcat
 
@@ -493,6 +613,18 @@ Un servidor virtual privado (VPS, del inglés virtual private server) es un mét
 
 Es un sistema de gestión de contenidos o CMS (por sus siglas en inglés, Content Management System) enfocado a la creación de cualquier tipo de página web.
 Está desarrollado en el lenguaje PHP para entornos que ejecuten MySQL y Apache, bajo licencia GPL y es un software libre.
+
+## Wordfence 
+
+Versión gratuita de unos de los plugins de seguridad más descargados y mejor valorados del repositorio de WordPress.
+
+[Referencia](https://www.lifestylealcuadrado.com/wordfence-seguridad-wordpress/)
+
+## WooCommerce 
+
+Es un plugin gratuito de eCommerce que te permite vender cualquier cosa. Creado para que se integre sin problemas con WordPress, WooCommerce es la solución eCommerce favorita en todo el mundo y ofrece un control total tanto a propietarios de tienda como a desarrolladores.
+
+[Referencia](https://es.wordpress.org/plugins/woocommerce/)
 
 ## W3 Total Cache
 
