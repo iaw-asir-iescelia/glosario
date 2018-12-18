@@ -8,18 +8,19 @@ Glosario para el módulo Implantación de Aplicaciones Web de 2º ASIR.
 
 ## Adminer 
 
-Usado principalmente para hacer backups de las bases de datos ha desaparecido del repositorio de WordPress.Te evita acceder a phpmyadmin.
-[Referencia](https://www.anunciosgoogle.net/adminer-ha-desaparecido-del-repositorio-wordpress/)
+Adminer es una herramienta para administrar contenido en bases de datos MySQL. Sse distribuye bajo la licencia de Apache en forma de un único archivo PHP. 
+
+[Referencia](https://en.wikipedia.org/wiki/Adminer)
 
 ## Amazon EC2
 
-proporciona capacidad de computación escalable en la nube de Amazon Web Services (AWS). El uso de Amazon EC2 elimina la necesidad de invertir inicialmente en hardware, de manera que puede desarrollar e implementar aplicaciones en menos tiempo.
+Amazon Elastic Compute Cloud (Amazon EC2) es una parte central de la plataforma de cómputo en la nube de Amazon Web Services (AWS). Se apoya en las tecnologías de virtualización y permite el despliegue escalable de aplicaciones.
 
-[Referencia](https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/concepts.html)
+[Referencia](https://es.wikipedia.org/wiki/Amazon_EC2)
 
 ## Amazon Cloudfront
 
-Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes globalmente datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
+Amazon CloudFront es un servicio rápido de red de entrega de contenido (CDN) que distribuye a clientes, datos, vídeos, aplicaciones y API de forma segura, con baja latencia, altas velocidades de transferencia y dentro de un entorno fácil para desarrolladores. CloudFront está integrado a AWS tanto mediante ubicaciones físicas conectadas directamente con la infraestructura global de AWS, así como otros servicios de AWS.
 
 ## Amazon ElastiCache
 
@@ -35,8 +36,7 @@ Es un sistema de información que se utiliza para facilitar el intercambio efici
 
 ## Amazon Lightsail
 
-Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados.
-Amazon Lightsail lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.
+Amazon Lightsail es un servicio en la nube de Amazon que ofrece paquetes de energía de computación en la nube y memoria para usuarios de la nube nuevos o menos experimentados. Lanza servidores privados virtuales, que son máquinas virtuales con sistemas operativos individuales pero acceso restringido a los recursos físicos del servidor.
     
 [Referencia](https://searchaws.techtarget.com/definition/Amazon-Lightsail)
 
@@ -116,7 +116,8 @@ cPanel es un panel de control para administrar servidores de alojamiento web que
 
 ## Continious Delivery
 
-Permite ayudar en la reducción del costo, tiempo, y riesgo de la liberación de versiones a través de la liberación de versiones más incrementales a aplicaciones en producción. 
+Permite ayudar en la reducción del coste, tiempo, y riesgo a través de la entrega de versiones más incrementales a aplicaciones en producción. 
+
 Está compuesta de 3 etapas:
 * Automatización de la compilación e integración continua
 * Automatización de pruebas
@@ -126,8 +127,8 @@ Está compuesta de 3 etapas:
 
 *Content Management System* o CMS que en español quiere decir Sistema de gestion de contenido o **Sistema Gestor de Contenidos** es un programa el cual permite crear, administrar y gestionar un sitio Web además del propio CMS. Como norma general los mayores CMSs tienen soporte para la mayoria de los servicios que se usan hoy día en Internet como Correo, JavaScript, PHP, CSS y muchos más servicios. Los CMSs más famosos son [Wordpress](https://es.wordpress.org/), [Moodle](https://moodle.org/?lang=es) o [Prestashop](https://www.prestashop.com/es) entre otros muchos.
 
-* [Referencia1](https://www.webempresa.com/blog/que-es-cms-los-mejores-gestores-de-contenido.html)
-* [Referencia2](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos)
+* [Referencia 1](https://www.webempresa.com/blog/que-es-cms-los-mejores-gestores-de-contenido.html)
+* [Referencia 2](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos)
 
 ## Composer
 
@@ -238,13 +239,13 @@ Flask es un framework minimalista escrito en Python que permite crear aplicacion
 
 # Github
 
-plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora. El software que opera GitHub fue escrito en Ruby on Rails.
+Es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora.
 
 [Referencia](https://es.wikipedia.org/wiki/GitHub)
 
 ## Git
 
-Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos. 
 
 [Referencia](https://es.wikipedia.org/wiki/Git)
 
@@ -281,8 +282,7 @@ La base del sistema operativo es Debian o, en la nueva plataforma, el sistema ba
 
 ## HTTP
 
-El Protocolo de transferencia de hipertexto (en inglés: Hypertext Transfer Protocol o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. HTTP fue desarrollado por el World Wide Web Consortium y la Internet Engineering Task Force, colaboración que culminó en 1999 con la publicación de una serie de RFC, el más importante de ellos es el RFC 2616 que especifica la versión 1.1. HTTP define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. El desarrollo de aplicaciones web necesita frecuentemente mantener estado. Para esto se usan las cookies, que es información que un servidor puede almacenar en el sistema cliente. Esto le permite a las aplicaciones web instituir la noción de sesión, y también permite rastrear usuarios ya que las cookies pueden guardarse en el cliente por tiempo indeterminado
-Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente (se le suele llamar "agente de usuario", en inglés user agent) realiza una petición enviando un mensaje, con cierto formato al servidor. El servidor (se le suele llamar un servidor web) le envía un mensaje de respuesta. Ejemplos de cliente son los navegadores web y las arañas web (también conocidas por su término inglés, webcrawlers
+El Protocolo de transferencia de hipertexto (*Hypertext Transfer Protocol* o HTTP) es el protocolo de comunicación que permite las transferencias de información en la World Wide Web. Define la sintaxis y la semántica que utilizan los elementos de software de la arquitectura web (clientes, servidores, proxies) para comunicarse. HTTP es un protocolo sin estado, es decir, no guarda ninguna información sobre conexiones anteriores. Es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor.
 
 [Referencia](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto)
 
@@ -489,8 +489,6 @@ Está disponible bajo la licencia Open Software. El software está escrito en PH
 Puppet es una herramienta diseñada para administrar la configuración de sistemas similares a Unix y a Microsoft Windows de forma declarativa. El usuario describe los recursos del sistema y sus estados utilizando el lenguaje declarativo que proporciona Puppet. Esta información es almacenada en archivos denominados manifiestos Puppet. Puppet descubre la información del sistema a través de una utilidad llamada Facter, y compila los manifiestos en un catálogo específico del sistema que contiene los recursos y la dependencia de dichos recursos. Estos catálogos son ejecutados en los sistemas de destino.
 
 [Referencia](https://es.wikipedia.org/wiki/Puppet_(software))
-
-
 
 ## Plesk
 
